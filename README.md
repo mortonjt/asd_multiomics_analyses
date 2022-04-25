@@ -25,7 +25,4 @@ The RNAseq preprocessing workflows can be found under the `sfari/data/recount3` 
 ## Jupyter notebooks
 
 To get started on understanding how to parse the results of the case-control differential abundance pipeline, see the `ipynb/main-differential-notebook.ipynb`.
-This will give a high-level overview of the pipeline, how to analyze and interpret the results.
-
-### Metabolic analysis
-`A-gather-compounds.nbconvert.ipynb`
+This will give a high-level overview of the pipeline, how to analyze and interpret the results.  There is another README in the `ipynb` on how to proceed from there.
