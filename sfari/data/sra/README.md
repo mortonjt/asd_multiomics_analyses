@@ -16,3 +16,5 @@ We have also included some customized scripts for a select few studies, such as 
 
 The Jupyter notebooks here are largely for metadata curation.  All of the combined 16S biom tables should be allocated to `Combined`.
 Benchmarking scripts can be found in the `Benchmarking` folder.
+
+Some folders will have a `diff_abs.sh` script to perform case-control differential abundance analysis.
