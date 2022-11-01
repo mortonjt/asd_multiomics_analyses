@@ -25,4 +25,3 @@ The RNAseq preprocessing workflows can be found under the `sfari/data/recount3` 
 ## Jupyter notebooks
 
 The notebooks are labeled according to the figure numbering in the main paper.
-There is another README in the `ipynb` on how to proceed from there.
