@@ -1,0 +1,693 @@
+sampleid	Age	Sex	Status	Control_Type	Cohort	Subjects_Location	Variable_Region	Match_IDs
+101B	4.0	female	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_1
+102B	4.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_4
+103B	5.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_19
+104B	7.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_14
+105B	4.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_5
+106B	7.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_13
+107B	5.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_21
+108B	5.0	female	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_24
+109B	4.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_9
+110B	7.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_8
+111B	7.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_12
+112B	7.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_15
+113B	7.0	female	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_16
+115B	6.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_25
+118B	7.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_22
+119B	7.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_20
+122B	4.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_10
+128B	3.0	female	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_6
+136B	3.0	female	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_6
+138B	4.0	female	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_17
+139B	4.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_11
+140B	2.0	female	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_23
+141B	2.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_7
+142B	3.0	female	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_18
+143B	4.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_0
+144B	2.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_3
+147B	2.0	male	Control	Age_Sex_Match	Berding2020	US	V34	Berding2020_2
+201B	4.0	female	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_1
+203B	2.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_2
+204B	3.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_3
+205B	4.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_4
+207B	3.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_5
+211B	2.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_7
+214B	6.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_8
+215B	3.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_9
+216B	3.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_10
+217B	5.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_12
+218B	4.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_11
+219B	4.0	female	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_24
+220B	6.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_13
+223B	7.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_14
+224B	5.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_15
+225B	7.0	female	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_16
+229B	4.0	female	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_17
+230B	3.0	female	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_18
+231B	4.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_19
+234B	5.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_20
+235B	4.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_21
+237B	7.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_22
+238B	3.0	female	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_23
+239B	4.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_25
+240B	3.0	male	ASD	Age_Sex_Match	Berding2020	US	V34	Berding2020_0
+ERR5263100	2.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_4
+ERR5263101	8.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_13
+ERR5263102	9.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_20
+ERR5263103	9.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_5
+ERR5263104	9.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_6
+ERR5263105	9.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_17
+ERR5263106	10.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_30
+ERR5263109	8.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_7
+ERR5263110	4.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_32
+ERR5263111	4.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_28
+ERR5263112	4.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_11
+ERR5263113	5.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_24
+ERR5263114	5.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_33
+ERR5263115	5.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_27
+ERR5263116	5.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_23
+ERR5263117	5.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_9
+ERR5263118	10.0	female	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_22
+ERR5263119	4.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_1
+ERR5263120	5.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_29
+ERR5263121	6.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_8
+ERR5263122	6.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_16
+ERR5263123	6.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_10
+ERR5263124	5.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_12
+ERR5263125	5.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_15
+ERR5263126	8.0	female	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_19
+ERR5263127	7.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_0
+ERR5263128	7.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_14
+ERR5263129	8.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_18
+ERR5263130	11.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_25
+ERR5263131	11.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_21
+ERR5263132	11.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_31
+ERR5263133	12.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_3
+ERR5263134	12.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_26
+ERR5263135	6.0	male	ASD	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_2
+ERR5263136	5.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_33
+ERR5263137	5.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_12
+ERR5263138	6.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_14
+ERR5263139	6.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_10
+ERR5263142	7.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_7
+ERR5263143	7.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_17
+ERR5263144	3.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_4
+ERR5263145	6.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_2
+ERR5263146	6.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_8
+ERR5263147	3.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_32
+ERR5263149	4.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_1
+ERR5263150	5.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_23
+ERR5263152	6.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_13
+ERR5263153	7.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_5
+ERR5263154	5.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_28
+ERR5263155	5.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_24
+ERR5263156	6.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_0
+ERR5263161	6.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_19
+ERR5263162	5.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_29
+ERR5263163	8.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_22
+ERR5263164	8.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_30
+ERR5263165	9.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_26
+ERR5263166	8.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_25
+ERR5263167	4.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_11
+ERR5263168	5.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_27
+ERR5263169	5.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_9
+ERR5263170	5.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_15
+ERR5263171	6.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_16
+ERR5263172	6.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_18
+ERR5263173	7.0	male	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_20
+ERR5263174	7.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_6
+ERR5263175	8.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_21
+ERR5263176	8.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_31
+ERR5263177	9.0	female	Control	Age_Sex_Match	Fouquier2021		V4	Fouquier2021_3
+P1.stool	10.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_0
+P11.stool	12.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_19
+P12.stool	8.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_18
+P15.stool	12.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_19
+P16.stool	6.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_16
+P17.stool	8.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_17
+P19.stool	8.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_17
+P2.stool	6.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_2
+P20.stool	8.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_12
+P21.stool	7.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_11
+P23.stool	6.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_10
+P24.stool	5.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_9
+P25.stool	12.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_13
+P26.stool	12.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_3
+P27.stool	8.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_8
+P28.stool	12.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_13
+P29.stool	6.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_7
+P30.stool	5.0	female	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_6
+P31.stool	8.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_15
+P32.stool	5.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_9
+P33.stool	8.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_14
+P34.stool	10.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_5
+P35.stool	10.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_4
+P36.stool	12.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_3
+P37.stool	6.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_2
+P39.stool	7.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_18
+P4.stool	12.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_20
+P40.stool	12.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_1
+P41.stool	6.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_7
+P42.stool	6.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_10
+P45.stool	7.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_11
+P49.stool	6.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_16
+P5.stool	8.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_15
+P50.stool	11.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_5
+P51.stool	11.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_20
+P52.stool	10.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_0
+P53.stool	8.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_8
+P54.stool	5.0	female	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_6
+P55.stool	11.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_21
+P56.stool	12.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_1
+P57.stool	10.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_4
+P6.stool	8.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_14
+P7.stool	8.0	male	Control	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_12
+P8.stool	11.0	male	ASD	Age_Sex_Match	Zurita2019	Ecuador	V4	Zurita2019_21
+SRR10305328	3.9	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_30
+SRR10305329	3.0	female	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_37
+SRR10305330	5.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_28
+SRR10305331	6.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_32
+SRR10305332	4.2	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_20
+SRR10305333	4.6	female	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_33
+SRR10305334	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_20
+SRR10305335	4.6	female	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_35
+SRR10305336	4.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_36
+SRR10305337	3.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_45
+SRR10305338	4.4	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_38
+SRR10305339	3.3	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_39
+SRR10305341	6.0	female	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_40
+SRR10305342	6.5	female	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_41
+SRR10305344	4.9	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_46
+SRR10305346	4.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_47
+SRR10305347	4.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_44
+SRR10305348	4.3	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_17
+SRR10305349	4.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_43
+SRR10305350	3.5	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_25
+SRR10305352	5.0	female	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_23
+SRR10305353	6.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_22
+SRR10305354	5.5	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_19
+SRR10305355	5.8	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_1
+SRR10305357	5.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_0
+SRR10305358	6.8	female	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_2
+SRR10305359	3.6	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_3
+SRR10305360	3.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_24
+SRR10305361	5.5	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_4
+SRR10305362	3.0	female	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_15
+SRR10305365	3.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_34
+SRR10305368	2.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_16
+SRR10305370	5.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_7
+SRR10305371	5.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_27
+SRR10305373	6.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_21
+SRR10305374	6.0	female	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_9
+SRR10305375	5.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_10
+SRR10305376	6.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_11
+SRR10305377	7.0	female	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_12
+SRR10305380	3.0	male	ASD	Age_Sex_Match	Zou2020		V34	Zou2020_14
+SRR10305381	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_44
+SRR10305382	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_12
+SRR10305383	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_19
+SRR10305384	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_15
+SRR10305385	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_7
+SRR10305386	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_47
+SRR10305387	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_34
+SRR10305388	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_25
+SRR10305390	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_39
+SRR10305391	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_0
+SRR10305392	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_28
+SRR10305393	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_21
+SRR10305394	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_35
+SRR10305395	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_24
+SRR10305396	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_32
+SRR10305397	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_38
+SRR10305398	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_45
+SRR10305399	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_4
+SRR10305401	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_46
+SRR10305402	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_1
+SRR10305403	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_30
+SRR10305404	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_37
+SRR10305405	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_2
+SRR10305406	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_41
+SRR10305407	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_3
+SRR10305408	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_22
+SRR10305409	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_11
+SRR10305410	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_16
+SRR10305412	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_9
+SRR10305413	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_40
+SRR10305414	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_10
+SRR10305415	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_14
+SRR10305416	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_27
+SRR10305417	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_17
+SRR10305418	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_23
+SRR10305419	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_36
+SRR10305420	4.0	female	Control	Age_Sex_Match	Zou2020		V34	Zou2020_33
+SRR10305421	4.0	male	Control	Age_Sex_Match	Zou2020		V34	Zou2020_43
+SRR12180382	3.9	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_67.0
+SRR12180393	4.5	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_26.0
+SRR12180404	4.0	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_64.0
+SRR12180406	4.4	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_74.0
+SRR12180407	4.1	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_57.0
+SRR12180408	3.2	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_34.0
+SRR12180427	4.4	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_54.0
+SRR12180432	5.2	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_53.0
+SRR12180433	4.9	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_52.0
+SRR12180444	4.4	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_51.0
+SRR12180466	4.0	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_56.0
+SRR12180477	5.1	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_65.0
+SRR12180486	4.9	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_27.0
+SRR12180488	5.6	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_40.0
+SRR12180489	5.1	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_3.0
+SRR12180490	5.1	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_52.0
+SRR12180491	5.4	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_53.0
+SRR12180492	5.2	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_65.0
+SRR12180493	5.6	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_68.0
+SRR12180494	4.2	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_39.0
+SRR12180495	2.9	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_24.0
+SRR12180496	4.3	female	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_29.0
+SRR12180497	4.6	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_30.0
+SRR12180498	3.8	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_36.0
+SRR12180499	5.7	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_46.0
+SRR12180500	4.8	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_0.0
+SRR12180501	3.2	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_44.0
+SRR12180502	4.0	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_67.0
+SRR12180503	4.2	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_66.0
+SRR12180504	3.5	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_7.0
+SRR12180505	3.3	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_34.0
+SRR12180510	4.6	female	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_69.0
+SRR12180511	5.3	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_68.0
+SRR12180512	4.7	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_0.0
+SRR12180513	4.1	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_49.0
+SRR12180517	5.8	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_46.0
+SRR12180518	4.3	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_66.0
+SRR12180519	3.4	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_20.0
+SRR12180522	3.6	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_17.0
+SRR12180523	6.3	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_16.0
+SRR12180524	3.4	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_15.0
+SRR12180526	3.9	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_14.0
+SRR12180527	4.4	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_13.0
+SRR12180528	3.1	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_12.0
+SRR12180529	4.7	female	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_29.0
+SRR12180530	3.2	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_21.0
+SRR12180531	3.9	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_11.0
+SRR12180533	3.8	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_25.0
+SRR12180534	4.5	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_74.0
+SRR12180535	4.2	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_57.0
+SRR12180537	3.1	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_12.0
+SRR12180538	5.7	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_60.0
+SRR12180539	4.2	female	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_10.0
+SRR12180540	4.1	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_49.0
+SRR12180543	3.5	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_7.0
+SRR12180544	5.7	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_60.0
+SRR12180545	3.8	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_6.0
+SRR12180546	4.7	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_5.0
+SRR12180547	2.6	female	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_4.0
+SRR12180548	4.9	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_3.0
+SRR12180549	3.6	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_2.0
+SRR12180551	4.1	female	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_10.0
+SRR12180552	4.9	female	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_22.0
+SRR12180554	2.9	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_24.0
+SRR12180555	3.2	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_45.0
+SRR12180559	3.2	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_44.0
+SRR12180574	5.4	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_40.0
+SRR12180585	4.2	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_39.0
+SRR12180593	4.0	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_14.0
+SRR12180594	4.8	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_30.0
+SRR12180595	4.9	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_5.0
+SRR12180597	4.6	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_26.0
+SRR12180598	3.4	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_15.0
+SRR12180599	3.2	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_45.0
+SRR12180600	3.3	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_21.0
+SRR12180601	3.4	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_20.0
+SRR12180602	3.9	female	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_37.0
+SRR12180603	4.3	female	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_69.0
+SRR12180604	3.6	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_2.0
+SRR12180605	4.0	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_56.0
+SRR12180606	4.0	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_64.0
+SRR12180607	3.8	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_36.0
+SRR12180608	3.6	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_17.0
+SRR12180609	3.8	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_6.0
+SRR12180610	3.9	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_11.0
+SRR12180611	4.3	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_51.0
+SRR12180612	3.9	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_25.0
+SRR12180613	4.3	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_13.0
+SRR12180614	4.3	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_54.0
+SRR12180615	5.9	male	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_16.0
+SRR12180616	5.4	female	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_22.0
+SRR12180617	2.5	female	Control	Age_Sex_Match	Chen2020	China	V34	Chen2020_4.0
+SRR12180619	3.8	female	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_37.0
+SRR12180620	4.7	male	ASD	Age_Sex_Match	Chen2020	China	V34	Chen2020_27.0
+SRR13306613	4.37	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_35
+SRR13306614	4.98	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_38
+SRR13306615	3.01	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_6
+SRR13306616	4.27	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_37
+SRR13306617	4.91	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_10
+SRR13306618	4.97	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_32
+SRR13306619	4.89	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_23
+SRR13306620	5.48	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_27
+SRR13306621	5.5	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_36
+SRR13306622	5.15	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_7
+SRR13306638	4.14	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_12
+SRR13306658	3.72	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_0
+SRR13306659	5.83	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_30
+SRR13306660	3.98	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_37
+SRR13306661	4.63	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_31
+SRR13306662	4.47	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_32
+SRR13306663	3.85	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_33
+SRR13306664	4.11	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_35
+SRR13306665	5.37	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_36
+SRR13306666	5.3	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_27
+SRR13306667	6.34	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_19
+SRR13306668	7.0	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_20
+SRR13306670	5.72	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_18
+SRR13306671	4.17	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_1
+SRR13306672	3.38	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_0
+SRR13306673	3.19	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_2
+SRR13306674	3.38	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_3
+SRR13306675	4.22	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_4
+SRR13306676	5.02	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_5
+SRR13306677	3.05	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_6
+SRR13306678	4.91	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_7
+SRR13306679	3.46	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_8
+SRR13306681	4.29	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_25
+SRR13306683	4.82	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_4
+SRR13306684	5.13	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_31
+SRR13306685	5.83	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_29
+SRR13306686	6.29	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_11
+SRR13306687	5.86	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_30
+SRR13306688	3.97	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_26
+SRR13306689	6.34	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_19
+SRR13306690	3.68	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_2
+SRR13306691	4.02	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_8
+SRR13306694	4.88	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_13
+SRR13306695	4.72	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_1
+SRR13306696	6.46	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_28
+SRR13306697	3.89	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_21
+SRR13306698	6.26	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_16
+SRR13306699	3.71	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_24
+SRR13306700	5.82	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_22
+SRR13306701	6.52	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_20
+SRR13306702	4.19	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_33
+SRR13306703	5.56	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_34
+SRR13306704	5.28	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_15
+SRR13306706	5.61	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_18
+SRR13306707	4.44	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_9
+SRR13306708	3.77	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_3
+SRR13306709	6.45	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_17
+SRR13306710	6.27	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_16
+SRR13306711	5.01	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_15
+SRR13306712	6.01	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_14
+SRR13306713	4.25	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_13
+SRR13306714	3.8	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_12
+SRR13306715	6.28	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_11
+SRR13306716	4.46	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_10
+SRR13306717	4.12	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_9
+SRR13306718	5.44	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_5
+SRR13306719	6.86	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_28
+SRR13306720	3.39	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_21
+SRR13306721	3.44	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_26
+SRR13306722	4.1	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_25
+SRR13306723	3.28	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_24
+SRR13306724	4.31	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_23
+SRR13306725	5.73	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_22
+SRR13306726	5.76	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_29
+SRR13306727	4.59	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_38
+SRR13306728	5.5	Unknown	ASD	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_34
+SRR13306729	5.99	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_14
+SRR13306730	6.39	Unknown	Control	Age_Sex_Match	Fasano2020	China	V45	Fasano2020_17
+SRR9666721	5.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_45
+SRR9666722	5.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_80
+SRR9666723	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_63
+SRR9666724	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_126
+SRR9666725	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_131
+SRR9666726	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_14
+SRR9666727	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_66
+SRR9666728	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_132
+SRR9666729	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_127
+SRR9666730	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_133
+SRR9666731	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_91
+SRR9666732	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_70
+SRR9666733	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_84
+SRR9666734	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_18
+SRR9666735	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_19
+SRR9666736	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_134
+SRR9666737	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_87
+SRR9666738	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_136
+SRR9666739	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_89
+SRR9666740	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_135
+SRR9666741	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_130
+SRR9666742	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_6
+SRR9666743	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_116
+SRR9666744	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_125
+SRR9666745	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_48
+SRR9666746	7.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_117
+SRR9666747	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_112
+SRR9666748	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_8
+SRR9666749	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_110
+SRR9666750	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_20
+SRR9666751	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_111
+SRR9666752	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_120
+SRR9666753	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_122
+SRR9666754	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_123
+SRR9666755	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_121
+SRR9666756	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_51
+SRR9666757	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_124
+SRR9666758	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_58
+SRR9666759	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_128
+SRR9666760	5.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_0
+SRR9666761	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_129
+SRR9666762	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_59
+SRR9666763	7.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_10
+SRR9666764	8.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_7
+SRR9666765	9.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_56
+SRR9666766	7.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_22
+SRR9666767	8.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_15
+SRR9666768	8.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_37
+SRR9666769	7.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_16
+SRR9666770	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_106
+SRR9666771	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_107
+SRR9666772	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_57
+SRR9666773	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_1
+SRR9666774	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_114
+SRR9666775	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_115
+SRR9666776	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_41
+SRR9666777	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_83
+SRR9666778	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_108
+SRR9666779	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_81
+SRR9666780	8.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_79
+SRR9666781	5.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_42
+SRR9666782	7.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_26
+SRR9666783	7.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_31
+SRR9666784	7.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_39
+SRR9666785	8.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_50
+SRR9666786	8.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_76
+SRR9666787	7.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_44
+SRR9666788	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_104
+SRR9666789	3.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_61
+SRR9666790	2.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_62
+SRR9666791	8.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_64
+SRR9666792	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_102
+SRR9666793	2.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_67
+SRR9666794	2.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_72
+SRR9666795	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_97
+SRR9666796	2.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_77
+SRR9666797	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_139
+SRR9666798	8.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_23
+SRR9666799	9.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_55
+SRR9666800	7.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_68
+SRR9666801	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_98
+SRR9666802	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_24
+SRR9666803	5.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_100
+SRR9666804	7.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_12
+SRR9666806	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_137
+SRR9666807	7.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_13
+SRR9666808	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_99
+SRR9666809	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_101
+SRR9666810	9.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_119
+SRR9666811	9.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_96
+SRR9666812	9.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_53
+SRR9666813	9.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_54
+SRR9666814	9.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_25
+SRR9666815	9.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_29
+SRR9666816	2.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_52
+SRR9666817	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_49
+SRR9666818	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_46
+SRR9666819	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_5
+SRR9666820	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_118
+SRR9666821	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_47
+SRR9666822	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_103
+SRR9666823	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_95
+SRR9666824	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_94
+SRR9666826	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_82
+SRR9666827	4.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_17
+SRR9666828	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_34
+SRR9666829	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_32
+SRR9666830	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_60
+SRR9666831	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_92
+SRR9666832	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_73
+SRR9666833	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_74
+SRR9666834	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_38
+SRR9666835	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_90
+SRR9666836	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_93
+SRR9666837	6.0	female	Control	Age_Sex_Match	Dan2020		V4	Dan_30
+SRR9666838	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_11
+SRR9666839	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_28
+SRR9666840	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_33
+SRR9666841	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_3
+SRR9666842	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_21
+SRR9666843	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_2
+SRR9666844	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_109
+SRR9666845	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_86
+SRR9666846	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_78
+SRR9666847	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_69
+SRR9666848	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_36
+SRR9666849	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_71
+SRR9666850	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_65
+SRR9666851	5.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_35
+SRR9666853	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_85
+SRR9666854	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_88
+SRR9666856	11.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_75
+SRR9666857	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_105
+SRR9666858	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_113
+SRR9666859	3.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_43
+SRR9666860	6.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_4
+SRR9666861	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_27
+SRR9666862	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_9
+SRR9666863	4.0	male	Control	Age_Sex_Match	Dan2020		V4	Dan_138
+SRR9666864	9.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_25
+SRR9666865	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_22
+SRR9666866	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_105
+SRR9666867	6.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_42
+SRR9666868	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_102
+SRR9666869	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_109
+SRR9666870	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_106
+SRR9666871	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_112
+SRR9666872	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_97
+SRR9666873	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_26
+SRR9666874	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_31
+SRR9666875	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_10
+SRR9666876	8.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_23
+SRR9666877	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_81
+SRR9666878	8.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_79
+SRR9666879	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_116
+SRR9666880	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_82
+SRR9666881	2.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_67
+SRR9666882	8.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_64
+SRR9666883	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_114
+SRR9666884	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_115
+SRR9666885	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_91
+SRR9666886	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_1
+SRR9666887	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_103
+SRR9666888	8.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_37
+SRR9666889	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_88
+SRR9666890	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_12
+SRR9666891	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_111
+SRR9666892	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_98
+SRR9666893	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_3
+SRR9666894	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_13
+SRR9666895	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_4
+SRR9666896	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_84
+SRR9666897	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_87
+SRR9666898	5.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_0
+SRR9666899	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_6
+SRR9666900	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_41
+SRR9666901	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_107
+SRR9666902	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_121
+SRR9666903	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_130
+SRR9666904	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_90
+SRR9666905	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_38
+SRR9666906	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_93
+SRR9666907	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_85
+SRR9666908	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_94
+SRR9666909	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_57
+SRR9666910	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_138
+SRR9666911	8.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_7
+SRR9666912	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_32
+SRR9666913	9.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_76
+SRR9666914	7.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_117
+SRR9666915	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_137
+SRR9666916	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_139
+SRR9666917	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_129
+SRR9666918	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_89
+SRR9666919	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_34
+SRR9666920	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_127
+SRR9666921	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_35
+SRR9666922	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_20
+SRR9666923	2.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_77
+SRR9666924	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_133
+SRR9666925	2.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_62
+SRR9666926	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_125
+SRR9666927	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_134
+SRR9666928	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_16
+SRR9666929	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_78
+SRR9666930	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_28
+SRR9666931	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_8
+SRR9666932	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_58
+SRR9666933	8.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_15
+SRR9666934	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_122
+SRR9666935	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_120
+SRR9666936	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_126
+SRR9666937	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_73
+SRR9666938	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_46
+SRR9666939	2.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_72
+SRR9666940	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_47
+SRR9666941	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_60
+SRR9666942	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_65
+SRR9666943	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_43
+SRR9666944	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_92
+SRR9666945	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_74
+SRR9666946	10.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_119
+SRR9666947	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_24
+SRR9666948	3.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_61
+SRR9666950	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_71
+SRR9666951	4.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_80
+SRR9666952	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_19
+SRR9666953	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_11
+SRR9666954	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_69
+SRR9666955	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_9
+SRR9666956	4.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_17
+SRR9666957	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_86
+SRR9666958	9.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_53
+SRR9666959	7.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_68
+SRR9666960	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_14
+SRR9666961	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_66
+SRR9666962	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_118
+SRR9666963	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_135
+SRR9666964	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_70
+SRR9666965	5.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_100
+SRR9666966	11.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_96
+SRR9666967	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_36
+SRR9666968	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_59
+SRR9666969	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_5
+SRR9666970	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_99
+SRR9666971	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_2
+SRR9666972	13.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_75
+SRR9666974	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_124
+SRR9666975	2.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_52
+SRR9666977	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_123
+SRR9666978	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_63
+SRR9666979	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_83
+SRR9666980	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_136
+SRR9666982	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_33
+SRR9666983	9.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_54
+SRR9666984	10.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_55
+SRR9666985	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_18
+SRR9666986	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_51
+SRR9666987	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_27
+SRR9666988	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_39
+SRR9666989	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_132
+SRR9666990	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_21
+SRR9666991	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_108
+SRR9666992	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_128
+SRR9666993	4.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_45
+SRR9666994	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_44
+SRR9666995	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_48
+SRR9666996	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_49
+SRR9666997	6.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_101
+SRR9666998	4.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_131
+SRR9666999	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_113
+SRR9667000	9.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_56
+SRR9667001	5.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_104
+SRR9667002	9.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_29
+SRR9667003	7.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_50
+SRR9667004	6.0	female	ASD	Age_Sex_Match	Dan2020		V4	Dan_30
+SRR9667005	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_95
+SRR9667006	3.0	male	ASD	Age_Sex_Match	Dan2020		V4	Dan_110
