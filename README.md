@@ -18,11 +18,11 @@ We strongly recommend keeping these two environments separate, since there could
 
 The 16S metadata preprocessing and workflows can be found under the `sfari/data/sra` folder.
 
-The SMS workflows can be found under the `sfari/data/sra_shotgun`, `sfari/data/diaimmune` and `sfari/data/sra_ibd_shotgun` folders.
+The SMS workflows can be found under the `sfari/data/sra_shotgun` folder.
 
 The RNAseq preprocessing workflows can be found under the `sfari/data/recount3` folder.
 
 ## Jupyter notebooks
 
-To get started on understanding how to parse the results of the case-control differential abundance pipeline, see the `ipynb/main-differential-notebook.ipynb`.
-This will give a high-level overview of the pipeline, how to analyze and interpret the results.  There is another README in the `ipynb` on how to proceed from there.
+The notebooks are labeled according to the figure numbering in the main paper.
+There is another README in the `ipynb` on how to proceed from there.
