@@ -65,6 +65,11 @@ def extract_differentials(filename, features=None):
     """ Extract bootstrapped differentials from file. """
     posterior = az.from_netcdf(filename)
     x = posterior['posterior']['diff'].to_dataframe()
+    if features is not None:
+        x = x.reset_index().pivot(
+            index='index', columns=['chain', 'draw'], values='diff')
+        x.index = features
+    else:
     x = x.reset_index().pivot(
         index='features', columns=['chain', 'draw'], values='diff')
     return x
