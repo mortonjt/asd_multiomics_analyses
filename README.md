@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/482934546.svg)](https://zenodo.org/badge/latestdoi/482934546)
+
 # asd_multiomics_analyses
 
 This repository contains all of the analysis notebooks and scripts used to analyze the ASD multiomics meta-analysis [in this paper](https://www.biorxiv.org/content/10.1101/2022.02.25.482050v1).
