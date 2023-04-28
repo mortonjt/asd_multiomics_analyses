@@ -1,0 +1,1612 @@
+	BIOCHEMICAL	SUPER_PATHWAY	SUB_PATHWAY	PLATFORM	CHEMICAL_ID	RI	MASS	CAS	PUBCHEM	KEGG	                                      Group HMDB
+25	(N(1) + N(8))-acetylspermidine	Amino Acid	Polyamine Metabolism	LC/MS Pos Early	100016038	3080	188.1757		.		
+26	1,2,3-benzenetriol sulfate (2)	Xenobiotics	Chemical	LC/MS Neg	100006374	1709	204.9812		.		
+27	1,5-anhydroglucitol (1,5-AG)	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	LC/MS Neg	100000580	802	163.0612	154-58-5	64960	C07326	HMDB02712
+28	12,13-DiHOME	Lipid	Fatty Acid, Dihydroxy	LC/MS Neg	62	5137	313.2384	263399-35-5	10236635	C14829	HMDB04705
+29	12-HETE	Lipid	Eicosanoid	LC/MS Neg	100002167	5326	319.2279	71030-37-0;73837-14-6	5312983		HMDB06111
+30	13-HODE + 9-HODE	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100002196	5275	295.2283		43013		
+31	16a-hydroxy DHEA 3-sulfate	Lipid	Androgenic Steroids	LC/MS Neg	100002126	4240	383.1534		.		
+32	16-hydroxypalmitate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100002953	5236.2	271.2279	506-13-8	10466	C18218	HMDB06294
+33	1H-indole-7-acetic acid	Xenobiotics	Bacterial/Fungal	LC/MS Neg	100004601	2862	174.0561	39689-63-9	.		
+34	1-hydroxy-2-naphthalenecarboxylate	Xenobiotics	Drug - Other	LC/MS Neg	100002394	3930	187.0401	86-48-6	6844	C03203	
+35	1-linolenoylglycerol (18:3)	Lipid	Monoacylglycerol	LC/MS Neg	100001435	6214	277.2173	124151-74-2	53480978		HMDB11569
+36	1-linoleoylglycerol (18:2)	Lipid	Monoacylglycerol	LC/MS Neg	100001040	6477	279.2329	2277-28-3	5283469		
+37	1-methyl-4-imidazoleacetate	Amino Acid	Histidine Metabolism	LC/MS Pos Early	100001208	2064	141.0659	2625-49-2	75810	C05828	HMDB02820
+38	N1-methyladenosine	Nucleotide	Purine Metabolism, Adenine containing	LC/MS Pos Early	1242	2120	282.1197	15763-06-1	27476	C02494	HMDB03331
+39	1-methylhistidine	Amino Acid	Histidine Metabolism	LC/MS Pos Early	100001051	2755	170.0924	332-80-9	92105	C01152	HMDB00001
+40	1-methylnicotinamide	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	LC/MS Pos Early	55	1940	137.0709	1005-24-9	10129985	C02918	HMDB00699
+41	1-methylxanthine	Xenobiotics	Xanthine Metabolism	LC/MS Neg	100001405	1568.8	165.0418	6136-37-4	80220	C16358	HMDB10738
+42	1-oleoylglycerol (18:1)	Lipid	Monoacylglycerol	LC/MS Neg	100000924	6650	281.2486	111-03-5	5283468		HMDB11567
+43	1-palmitoleoylglycerol (16:1)*	Lipid	Monoacylglycerol	LC/MS Neg	100008952	6094	253.2173		.		HMDB11565
+44	1-palmitoylglycerol (16:0)	Lipid	Monoacylglycerol	LC/MS Neg	100000827	6550	255.2329	542-44-9	14900		HMDB31074
+45	1-ribosyl-imidazoleacetate*	Amino Acid	Histidine Metabolism	LC/MS Pos Early	100001668	2006	259.0925	29605-99-0	5117448	C05131	HMDB02331
+46	2,3-dihydroxy-2-methylbutyrate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100010869	787	133.0506	14868-24-7	301941		HMDB29576
+47	2,3-dihydroxyisovalerate	Xenobiotics	Food Component/Plant	LC/MS Polar	100002417	1050	133.0506	1756-18-9	677	C04039	HMDB12141
+48	21-hydroxypregnenolone disulfate	Lipid	Pregnenolone Steroids	LC/MS Neg	100001999	3935	245.0671	1164-98-3	134595		
+49	2-aminobutyrate	Amino Acid	Glutathione Metabolism	LC/MS Pos Early	1128	2059	104.0706	1492-24-6	439691	C02261	HMDB00650
+50	2-aminoheptanoate	Lipid	Fatty Acid, Amino	LC/MS Neg	100004542	2384	144.103	1115-90-8	227939		
+51	2-aminooctanoate	Lipid	Fatty Acid, Amino	LC/MS Pos Late	100004227	750	160.1332	644-90-6	69522		HMDB00991
+52	2-aminophenol sulfate	Xenobiotics	Chemical	LC/MS Neg	100004322	1677	188.0023		181670		HMDB61116
+53	2'-deoxyuridine	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Neg	536	1586	111.02	951-78-0	13712	C00526	HMDB00012
+54	2-ethylphenylsulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100001809	3416	201.0227		.		
+55	2-hydroxy-3-methylvalerate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100001541	1800	131.0714	488-15-3	164623		HMDB00317
+56	2-hydroxyarachidate*	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100019892	5990	327.2905		5225199		
+57	2-hydroxybehenate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100015637	6384	355.3218		193484		
+58	2-hydroxybutyrate/2-hydroxyisobutyrate	Amino Acid	Glutathione Metabolism	LC/MS Polar	100008928	1258	103.0401		.		
+59	2-hydroxydecanoate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100004089	4840	187.134	5393-81-7	21488		
+60	2-hydroxyglutarate	Lipid	Fatty Acid, Dicarboxylate	LC/MS Pos Early	100002070	958	131.0339	40951-21-1	43	C02630	HMDB00606
+61	2-hydroxyheptanoate*	Lipid	Fatty Acid, Monohydroxy	LC/MS Polar	100019960	925	145.087		2750949		
+62	2-hydroxyhippurate (salicylurate)	Xenobiotics	Benzoate Metabolism	LC/MS Neg	1869	2184	194.0459	487-54-7	10253	C07588	HMDB00840
+63	2-hydroxyibuprofen	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	100004169	3462	221.1183	51146-55-5	10443535		HMDB60920
+64	2-hydroxylaurate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100008934	5211	215.1653	2984-55-6	97783		
+65	2-hydroxynervonate*	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100015638	6345	381.3374		5312783		
+66	2-hydroxyoctanoate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100000743	3736.8	159.1027	617-73-2	94180		HMDB02264
+67	2-hydroxypalmitate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100001579	5511.2	271.2279	764-67-0	92836		HMDB31057
+68	2-hydroxyphytanate*	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100004414	5751	327.2905	14721-68-7	189026		
+69	2-hydroxystearate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	1239	5695	299.2592	629-22-1	69417	C03045	
+70	2-isopropylmalate	Xenobiotics	Food Component/Plant	LC/MS Polar	100000409	2605	175.0612	3237-44-3	77	C02504	HMDB00402
+71	2-linoleoylglycerol (18:2)	Lipid	Monoacylglycerol	LC/MS Neg	100000987	6250	279.2329	3443-82-1	5365676		HMDB11538
+72	2-methoxyacetaminophen glucuronide*	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	100001795	1633	356.0987		14367271		
+73	2-methoxyacetaminophen sulfate*	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	100001793	1949	260.0234		86290014		
+74	2-methoxyresorcinol sulfate	Xenobiotics	Chemical	LC/MS Neg	100006184	1863	218.9969	1446269-78-8	.		
+75	2-methylbutyrylcarnitine (C5)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Pos Early	100001509	3050	246.17	31023-25-3	6426901		HMDB00378
+76	2-methylcitrate	Energy	TCA Cycle	LC/MS Pos Early	90	1370	224.0765	6061-96-7	439681	C02225	HMDB00379
+77	2-methylserine	Amino Acid	Glycine, Serine and Threonine Metabolism	LC/MS Pos Early	100009246	1652	120.0655		94309	C02115	
+78	2-oleoylglycerol (18:1)	Lipid	Monoacylglycerol	LC/MS Neg	100000943	6500	281.2486	3443-84-3	5319879		HMDB11537
+79	2'-O-methylcytidine	Nucleotide	Pyrimidine Metabolism, Cytidine containing	LC/MS Pos Early	100010895	2411	258.1085	2140-72-9	150971		
+80	2'-O-methyluridine	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Neg	100010896	1831	257.0779	2140-76-3	102212		
+81	2-oxindole-3-acetate	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100003109	2378	192.0655	2971-31-5	3080590		HMDB35514
+82	2-oxoarginine*	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	100002784	1760	174.0873	3715-10-04 00:00:00	558	C03771	HMDB04225
+83	2-piperidinone	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100004295	1675	100.0757	675-20-7	12665		HMDB11749
+84	2-propyl-2-pentenoate (2-ene-valproate)	Xenobiotics	Drug - Neurological	LC/MS Neg	100015981	3874	141.0921	60218-41-9	6437068	C16653	HMDB13902
+85	2-propyl-4-pentenoate (4-ene-valproate)	Xenobiotics	Drug - Neurological	LC/MS Neg	100005952	3436	141.0921	1575-72-0	104896		
+86	3-(3-hydroxyphenyl)propionate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100001624	1980	165.0557	621-54-5	91	C11457	HMDB00375
+87	3-(4-hydroxyphenyl)lactate	Amino Acid	Tyrosine Metabolism	LC/MS Neg	240	1379	181.0506	6482-98-0	9378	C03672	HMDB00755
+88	3-(cystein-S-yl)acetaminophen*	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Pos Early	100001797	2420	271.0747		5233914		
+89	3-(N-acetyl-L-cystein-S-yl) acetaminophen	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	2048	2094	311.0707	52372-86-8	83967		
+90	3,4-methyleneheptanoate	Xenobiotics	Food Component/Plant	LC/MS Neg	100006651	3807	141.0921		.		
+91	3,4-methyleneheptanoylcarnitine	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Neg	100009234	4096	346.1871		.		
+92	3-aminoisobutyrate	Nucleotide	Pyrimidine Metabolism, Thymine containing	LC/MS Pos Early	1114	2190	104.0706	10569-72-9;214139-20-5	64956	C05145	HMDB03911
+93	3beta-hydroxy-5-cholestenoate	Lipid	Sterol	LC/MS Neg	100006370	5398	415.3218	6561-58-6	165511	C17333	
+94	3b-hydroxy-5-cholenoic acid	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100004182	5205	373.2748	5255-17-4	92997		HMDB00308
+95	3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-Cmpfp)**	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100020004	4000	267.1238		194501		
+96	3-carboxy-4-methyl-5-propyl-2-furanpropanoate (CMPF)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100001178	2800	239.0925	86879-39-2	123979		HMDB61112
+97	3-hydroxy-2-ethylpropionate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100001170	975	117.0557	4374-62-3	188979		HMDB00396
+98	3-hydroxy-3-methylglutarate	Lipid	Mevalonate Metabolism	LC/MS Polar	112	2850	161.0456	503-49-1	1662	C03761	HMDB00355
+99	3-hydroxybutyrate (BHBA)	Lipid	Ketone Bodies	LC/MS Polar	254	1444	103.0401	625-72-9	441	C01089	HMDB00357
+100	3-hydroxybutyrylcarnitine (1)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Early	100003926	2400	248.1493		53481617		HMDB13127
+101	3-hydroxybutyrylcarnitine (2)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Early	100009271	2340	248.1493		.		HMDB13127
+102	3-hydroxydecanoate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100000997	4634.7	187.134	5561-87-5	26612		HMDB02203
+103	3-hydroxyhexanoate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100006367	1725	131.0714	10191-24-9	151492		
+104	3-hydroxyhippurate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100002122	1687	194.0459	1637-75-8	450268		HMDB06116
+105	3-hydroxyisobutyrate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Polar	111	1619	103.0401	2068-83-9	87	C06001	HMDB00336
+106	3-hydroxylaurate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100001112	5175	215.1653	53941-38-1	94216		HMDB00387
+107	3-hydroxyoctanoate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100000773	3446	159.1027	88930-08-9	26613		HMDB01954
+108	3-hydroxypyridine sulfate	Xenobiotics	Chemical	LC/MS Neg	100006098	1595.5	173.9867	1955-23-3	.		
+109	3-hydroxysebacate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100001145	1282	217.1081	73141-46-5	3017884		HMDB00350
+110	3-hydroxystachydrine*	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100020203	1049	160.0968		442640		
+111	3-hydroxyvalproate	Xenobiotics	Drug - Neurological	LC/MS Pos Early	100015977	3237	143.1067	58888-84-9	134459	C16651	HMDB13899
+112	3-indoxyl sulfate	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100000467	2222.2	212.0023	2642-37-7	10258		HMDB00682
+113	3-methoxycatechol sulfate (1)	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100006375	2163	218.9969		.		
+114	3-methoxycatechol sulfate (2)	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100006376	2200	218.9969		.		
+115	3-methoxytyrosine	Amino Acid	Tyrosine Metabolism	LC/MS Pos Early	1342	2555	212.0917	300-48-1	1670		HMDB01434
+116	3-methyl catechol sulfate (1)	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100004112	2790	203.002		.		
+117	3-methyl catechol sulfate (2)	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100004110	2860	203.002		.		
+118	3-methyl-2-oxobutyrate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100000936	1465	115.0401	3715-29-5	49	C00141	HMDB00019
+119	3-methyl-2-oxovalerate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100000036	2064.2	129.0557	1460-34-0;51829-07-3	47	C00671	HMDB03736
+120	3-methylglutarate/2-methylglutarate	Lipid	Fatty Acid, Dicarboxylate	LC/MS Polar	100010834	2832	145.0506		.		HMDB00752
+121	3-methylglutarylcarnitine (2)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Pos Early	100005850	2687	290.1598		128145		HMDB00552
+122	3-methylhistidine	Amino Acid	Histidine Metabolism	LC/MS Neg	100000042	906.3	168.0779	368-16-1	64969	C01152	HMDB00479
+123	3-methylxanthine	Xenobiotics	Xanthine Metabolism	LC/MS Neg	100001108	1700	165.0418	1076-22-8	70639	C16357	HMDB01886
+124	3-phenylpropionate (hydrocinnamate)	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100000010	2860	149.0608	501-52-0	107	C05629	HMDB00764
+125	3-phosphoglycerate	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	LC/MS Pos Early	132	590	187.0002	80731-10-8	724	C00597	HMDB00807
+126	3-ureidopropionate	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Pos Early	1053	875	133.0608	462-88-4	111	C02642	HMDB00026
+127	4-acetamidobutanoate	Amino Acid	Polyamine Metabolism	LC/MS Pos Early	1113	1350	146.0812	3025-96-5	18189	C02946	HMDB03681
+128	4-acetamidophenol	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	1383	2173.7	150.0561	103-90-2	1983	C06804	HMDB01859
+129	4-acetamidophenylglucuronide	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	100000043	1400	326.0881	120595-80-4	83944		HMDB10316
+130	4-acetaminophen sulfate	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	2049	1792	230.0129	10066-90-7;32113-41-0	83939	C06804	HMDB59911
+131	4-acetylphenol sulfate	Xenobiotics	Drug - Other	LC/MS Neg	100000711	2375	215.002		4684006		
+132	4-allylphenol sulfate	Xenobiotics	Food Component/Plant	LC/MS Neg	100001868	3805	213.0227		.		
+133	4-cholesten-3-one	Lipid	Sterol	LC/MS Pos Late	100002227	2520	385.3465	601-57-0	91477	C00599	HMDB00921
+134	4-ethylphenylsulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100001756	3580	201.0227	123-07-9	.	C13637	
+135	4-guanidinobutanoate	Amino Acid	Drug - Cardiovascular	LC/MS Pos Early	100000096	2320	146.0924	463-003;463-00-3	500	C01035	HMDB03464
+136	4-hydroxy-2-oxoglutaric acid	Lipid	Fatty Acid, Dicarboxylate	LC/MS Polar	100002537	3073	161.0092	1187-99-1	599	C01127	HMDB02070
+137	4-hydroxychlorothalonil	Xenobiotics	Chemical	LC/MS Neg	100006082	4427	244.9082	28343-61-5	34217		
+138	4-hydroxycoumarin	Xenobiotics	Drug - Cardiovascular	LC/MS Neg	100002049	2470	161.0244	1076-38-6	54682930	C20414	
+139	4-hydroxyglutamate	Amino Acid	Glutamate Metabolism	LC/MS Pos Early	100002544	1141	164.0554	2485-33-8	439902	C03079	HMDB01344
+140	4-hydroxyhippurate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100001423	1475	194.0459	2482-25-9	151012		HMDB13678
+141	4-hydroxyphenylpyruvate	Amino Acid	Tyrosine Metabolism	LC/MS Neg	1141	1690	179.035	156-39-8	979	C01179	HMDB00707
+142	4-imidazoleacetate	Amino Acid	Histidine Metabolism	LC/MS Pos Early	100001207	2055	127.0502	645-65-8	96215	C02835	HMDB02024
+143	4-methoxyphenol sulfate	Amino Acid	Tyrosine Metabolism	LC/MS Neg	100006262	2412	203.002	3233-60-1	.		
+144	4-methyl-2-oxopentanoate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100000551	2170	129.0557	816-66-0	70	C00233	HMDB00695
+145	4-methylbenzenesulfonate	Xenobiotics	Chemical	LC/MS Neg	100002390	2350	171.0121	104-15-4	6101	C06677	
+146	4-methylcatechol sulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100004111	2665	203.002		.		
+147	4-methylguaiacol sulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100006105	2978	217.0176	756760-43-7	.		
+148	4-vinylguaiacol sulfate	Xenobiotics	Food Component/Plant	LC/MS Neg	100006126	3354	229.0176		.		
+149	4-vinylphenol sulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100001755	3320	199.0071	2628-17-3	6426766	C05627	HMDB04072
+150	5-(galactosylhydroxy)-L-lysine	Amino Acid	Lysine Metabolism	LC/MS Pos Early	100002462	2755	325.1606	32448-36-5	.		
+151	5,6-dihydrothymine	Nucleotide	Pyrimidine Metabolism, Thymine containing	LC/MS Neg	158	1637.8	127.0513	696-04-8	93556	C00906	HMDB00079
+152	5,6-dihydrouracil	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Neg	1125	1120	113.0357	504-07-4	649	C00429	HMDB00076
+153	5,6-dihydrouridine	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Neg	100001425	1119	245.0779	5627-05-04 00:00:00	94312		
+154	5-acetylamino-6-amino-3-methyluracil	Xenobiotics	Xanthine Metabolism	LC/MS Polar	100001403	1710	197.068	1196153-01-1	88299	C16366	HMDB04400
+155	5alpha-androstan-3beta,17beta-diol disulfate	Lipid	Androgenic Steroids	LC/MS Neg	100001987	3880	225.0697	571-20-0	242332	C12525	HMDB00493
+156	5alpha-pregnan-3beta,20alpha-diol disulfate	Lipid	Progestin Steroids	LC/MS Neg	100001988	3962	239.0853		.		
+157	5alpha-pregnan-3beta,20alpha-diol monosulfate (2)	Lipid	Progestin Steroids	LC/MS Neg	100002014	5060	399.2211		.		
+158	5alpha-pregnan-3beta,20beta-diol monosulfate (1)	Lipid	Progestin Steroids	LC/MS Neg	100002009	5180	399.2211		.		
+159	5-bromotryptophan	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100009338	3525	280.9931		96735		
+160	5-hydroxyhexanoate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100001148	1267	131.0714	44843-89-2	170748		HMDB00525
+161	5-hydroxyindole sulfate	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100009042	1928	212.0023		.		
+162	5-hydroxylysine	Amino Acid	Lysine Metabolism	LC/MS Pos Early	100000054	2790	163.1077	13204-98-3	1029	C16741	HMDB00450
+163	5-hydroxyvalproate	Lipid	Fatty Acid, Monohydroxy	LC/MS Pos Early	100015980	2978	143.1067	53660-23-4	135244	C16650	HMDB13898
+164	5-methylthioadenosine (MTA)	Amino Acid	Polyamine Metabolism	LC/MS Pos Early	212	2752	298.0968	2457-80-9	439176	C00170	HMDB01173
+165	5-methylthioribose**	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	100002103	790	181.0529	23656-67-9	494		HMDB01087
+166	5-methyluridine (ribothymidine)	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Neg	100001446	1778.1	257.0779	1463-10-1	445408		HMDB00884
+167	5-oxoproline	Amino Acid	Glutathione Metabolism	LC/MS Neg	1021	738.5	128.0353	98-79-3	7405	C01879	HMDB00267
+168	6-hydroxyindole sulfate	Xenobiotics	Chemical	LC/MS Neg	100006260	2498	212.0023		.		
+169	6-oxopiperidine-2-carboxylate	Amino Acid	Lysine Metabolism	LC/MS Neg	100004499	965	142.051	34622-39-4	3014237		HMDB61705
+170	7-alpha-hydroxy-3-oxo-4-cholestenoate (7-Hoca)	Lipid	Sterol	LC/MS Neg	100001609	5288.1	429.301	115538-85-7	3081085	C17337	HMDB12458
+171	7-hydroxyindole sulfate	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100009043	1765	212.0023		.		
+172	7-methylguanine	Nucleotide	Purine Metabolism, Guanine containing	LC/MS Pos Early	100001456	2175	166.0723	578-76-7	11361	C02242	HMDB00897
+173	7-methylxanthine	Xenobiotics	Xanthine Metabolism	LC/MS Pos Early	100001396	1350	167.0564	552-62-5	68374	C16353	HMDB01991
+174	9,10-DiHOME	Lipid	Fatty Acid, Dihydroxy	LC/MS Neg	179	5180	313.2384	263399-34-4	9966640	C14828	HMDB04704
+175	9-hydroxystearate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100005834	5384	299.2592	25498-28-6	9570127		HMDB61661
+176	acesulfame	Xenobiotics	Food Component/Plant	LC/MS Neg	100006203	1581	161.9867	55589-62-3	36573		HMDB33585
+177	acetylcarnitine (C2)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Early	100000802	2282	204.123	5080-50-2	1	C02571	HMDB00201
+178	acisoga	Amino Acid	Polyamine Metabolism	LC/MS Neg	100004541	2297	183.1139	106692-36-8	129397		
+179	aconitate [cis or trans]	Energy	TCA Cycle	LC/MS Neg	100001359	580	173.0092		.		
+180	adenine	Nucleotide	Purine Metabolism, Adenine containing	LC/MS Pos Early	880	2221	136.0618	73-24-5	190	C00147	HMDB00034
+181	adenosine	Nucleotide	Purine Metabolism, Adenine containing	LC/MS Neg	798	2075.4	134.0472	58-61-7	60961	C00212	HMDB00050
+182	adipate (C6-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Polar	100000863	3000	145.0506	124-04-9	196	C06104	HMDB00448
+183	adipoylcarnitine (C6-DC)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Early	100006614	2570	290.1598		71296139		HMDB61677
+184	Fibrinopeptide A, phosphono-ser(3)*	Peptide	Fibrinogen Cleavage Peptide	LC/MS Neg	100001324	2016	806.8185	886023-52-5	.		
+185	adrenoylcarnitine (C22:4)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015850	1415	476.3734		.		
+186	Fibrinopeptide A*	Peptide	Fibrinogen Cleavage Peptide	LC/MS Neg	100001322	2474	766.8353	25422-31-5	16133137		
+187	alanine	Amino Acid	Alanine and Aspartate Metabolism	LC/MS Pos Early	811	1700	90.055	56-41-7	5950	C00041	HMDB00161
+188	allantoin	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	LC/MS Polar	1002	1672	157.0367	97-59-6	204	C02350	HMDB00462
+189	alliin	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100003473	1470	178.0532	556-27-4	87310	C08265	HMDB33592
+190	alpha-CEHC	Cofactors and Vitamins	Tocopherol Metabolism	LC/MS Neg	100002206	4045	277.1445	4072-32-6	9943542		HMDB01518
+191	alpha-CEHC sulfate	Cofactors and Vitamins	Tocopherol Metabolism	LC/MS Neg	100005972	3090	357.1013		.		
+192	alpha-hydroxycaproate	Lipid	Fatty Acid, Monohydroxy	LC/MS Neg	100001723	1920	131.0714	6064-63-7	99824		HMDB01624
+193	alpha-hydroxyisocaproate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100000706	1840	131.0714	10303-64-7	83697	C03264	HMDB00746
+194	alpha-hydroxyisovalerate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100001300	1126	117.0557	600-37-3	99823		HMDB00407
+195	alpha-ketobutyrate	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Polar	796	940	101.0244	600-18-0	58	C00109	HMDB00005
+196	alpha-ketoglutaramate**	Amino Acid	Glutamate Metabolism	LC/MS Polar	100002397	1916	144.0302	18465-19-5	.		
+197	alpha-ketoglutarate	Energy	TCA Cycle	LC/MS Polar	93	2700	145.0143	305-72-6;328-50-7;22202-68-2	51	C00026	HMDB00208
+198	alpha-tocopherol	Cofactors and Vitamins	Tocopherol Metabolism	LC/MS Pos Late	1105	2522	430.3782	59-02-9;10191-41-0	14985	C02477	HMDB01893
+199	amoxicillin	Xenobiotics	Drug - Antibiotic	LC/MS Neg	100008962	2365	364.0973	26787-78-0	2171	C06827	HMDB15193
+200	adenosine 5'-monophosphate (AMP)	Nucleotide	Purine Metabolism, Adenine containing	LC/MS Pos Early	209	1013	348.0704	149022-20-8	6083	C00020	HMDB00045
+201	andro steroid monosulfate C19H28O6S (1)*	Lipid	Androgenic Steroids	LC/MS Neg	100002152	3871	383.1534		.	C04555	HMDB02759
+202	androstenediol (3alpha, 17alpha) monosulfate (2)	Lipid	Androgenic Steroids	LC/MS Neg	100002026	4712	369.1741		.		
+203	androstenediol (3alpha, 17alpha) monosulfate (3)	Lipid	Androgenic Steroids	LC/MS Neg	100002027	5180	369.1741		.		
+204	androstenediol (3beta,17beta) disulfate (1)	Lipid	Androgenic Steroids	LC/MS Neg	100001992	3740	224.0618		87120982	C04295	HMDB03818
+205	androstenediol (3beta,17beta) disulfate (2)	Lipid	Androgenic Steroids	LC/MS Neg	100001994	4065	224.0624		87120982	C04295	HMDB03818
+206	androstenediol (3beta,17beta) monosulfate (1)	Lipid	Androgenic Steroids	LC/MS Neg	100002028	4535	369.1741	521-17-5	13847309		HMDB03818
+207	androstenediol (3beta,17beta) monosulfate (2)	Lipid	Androgenic Steroids	LC/MS Neg	100002029	4500	369.1741		.		
+208	androsterone glucuronide	Lipid	Androgenic Steroids	LC/MS Neg	100002761	4953	465.2494	1852-43-3	114833	C11135	HMDB02829
+209	androsterone sulfate	Lipid	Androgenic Steroids	LC/MS Neg	100001073	5022	369.1741	2479-86-9	159663		HMDB02759
+210	arabinose	Carbohydrate	Pentose Metabolism	LC/MS Polar	828	1804.5	195.051	28697-53-2	66308	C00216	HMDB00646
+211	arabitol/xylitol	Carbohydrate	Pentose Metabolism	LC/MS Polar	100006430	1932.4	151.0612		6912	C01904	
+212	arabonate/xylonate	Carbohydrate	Pentose Metabolism	LC/MS Polar	100006115	2700	165.0405		.		
+213	arachidonoylcarnitine (C20:4)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015837	1353	448.3422		.		
+214	arachidoylcarnitine (C20)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015833	1512	456.4047		.		HMDB06460
+215	argininate*	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	100002769	2150	176.103	157-07-3	160437		HMDB03148
+216	arginine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	231	2825	175.119	1119-34-2	232	C00062	HMDB00517
+217	aripiprazole	Xenobiotics	Drug - Psychoactive	LC/MS Pos Late	100008941	1000	448.1553	129722-12-9	60795	D01164,C12564	HMDB05042
+218	ascorbate (Vitamin C)	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	LC/MS Pos Early	233	770	177.0394	134-03-2	.	C00072	HMDB00044
+219	asparagine	Amino Acid	Alanine and Aspartate Metabolism	LC/MS Pos Early	917	1225	133.0608	70-47-3	6267	C00152	HMDB00168
+220	aspartate	Amino Acid	Alanine and Aspartate Metabolism	LC/MS Pos Early	234	1165	134.0448	56-84-8	5960	C00049	HMDB00191
+221	azelate (C9-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	2029	1276	187.0976	123-99-9	2266	C08261	HMDB00784
+222	behenoylcarnitine (C22)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015832	1561	484.436		.		
+223	benzoate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100000008	1750	121.0295	65-85-0	243	C00180	HMDB01870
+224	beta-alanine	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Pos Early	244	1905	90.055	56-41-7;107-95-9	239	C00099	HMDB00056
+225	beta-citrylglutamate	Amino Acid	Glutamate Metabolism	LC/MS Neg	100003271	530	320.0623	73590-26-8	72715786	C20775	
+226	beta-cryptoxanthin	Cofactors and Vitamins	Vitamin A Metabolism	LC/MS Pos Late	100001977	2560	552.4326	472-70-8	6384256		HMDB33844
+227	beta-hydroxyisovalerate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	1442	1027	117.0557	625-08-1	69362		HMDB00754
+228	betaine	Amino Acid	Glycine, Serine and Threonine Metabolism	LC/MS Pos Early	799	1064	118.0863	107-43-7	247	C00719	HMDB00043
+229	betonicine	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100002153	1012	160.0968	515-25-3	164642	C08269	HMDB29412
+230	bilirubin (Z,Z)	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	LC/MS Pos Late	1090	1840	585.2708	635-65-4	5280352	C00486	HMDB00054
+231	bilirubin (E,E)*	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	LC/MS Pos Late	100001950	1045	585.2708	114-25-0	5315454		
+232	bilirubin (E,Z or Z,E)*	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	LC/MS Pos Late	100001951	1265	585.2708		5799469		HMDB00488
+233	biliverdin	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	LC/MS Pos Late	250	1016	583.2551	55482-27-4;55482-27-4	5353439	C00500	HMDB01008
+234	butyrylcarnitine (C4)	Lipid	Fatty Acid Metabolism (also BCAA Metabolism)	LC/MS Pos Early	100001054	2860	232.1543	25576-40-3	439829	C02862	HMDB02013
+235	caffeic acid sulfate	Xenobiotics	Xanthine Metabolism	LC/MS Polar	100009337	1307	258.9918		.		HMDB41708
+236	caffeine	Xenobiotics	Xanthine Metabolism	LC/MS Pos Early	849	2106	195.0877	58-08-2	2519	C07481	HMDB01847
+237	campesterol	Lipid	Sterol	LC/MS Pos Late	100001269	2873	383.3672	474-62-4	173183	C01789	HMDB02869
+238	caprate (10:0)	Lipid	Medium Chain Fatty Acid	LC/MS Neg	888	5090.7	171.1391	112-37-8	2969	C01571	HMDB00511
+239	caproate (6:0)	Lipid	Medium Chain Fatty Acid	LC/MS Neg	926	2713.7	115.0765	142-62-1	8892	C01585	HMDB00535
+240	caprylate (8:0)	Lipid	Medium Chain Fatty Acid	LC/MS Neg	932	4362	143.1078	124-07-2	379	C06423	HMDB00482
+241	carboxyethyl-GABA	Amino Acid	Glutamate Metabolism	LC/MS Pos Early	100003260	2085	176.0917	4386-03-02 00:00:00	2572		HMDB02201
+242	carboxyibuprofen	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	100004171	1920	235.0976	15935-54-3	10444113		HMDB60564
+243	carboxyibuprofen glucuronide*	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Polar	100020212	2294	411.1297		.		HMDB60564
+244	carnitine	Lipid	Carnitine Metabolism	LC/MS Pos Early	100000007	1978	162.1125	461-05-2	10917	C00318	HMDB00062
+245	carotene diol (1)	Cofactors and Vitamins	Vitamin A Metabolism	LC/MS Pos Late	100015966	1720	568.4276		.		
+246	carotene diol (2)	Cofactors and Vitamins	Vitamin A Metabolism	LC/MS Pos Late	100015967	1904	568.4279		.		
+247	carotene diol (3)	Cofactors and Vitamins	Vitamin A Metabolism	LC/MS Pos Late	100015968	1948	568.4279		.		
+248	catechol sulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100001605	1906	188.9863	4918-96-1	3083879		HMDB59724
+249	CE(12:0)	Cholesterol Ester	CE Ester	DMS-MS	100010641	.	.		.		
+250	CE(14:0)	Cholesterol Ester	CE Ester	DMS-MS	100009600	.	.		.		
+251	CE(14:1)	Cholesterol Ester	CE Ester	DMS-MS	100009601	.	.		.		
+252	CE(15:0)	Cholesterol Ester	CE Ester	DMS-MS	100009602	.	.		.		
+253	CE(16:0)	Cholesterol Ester	CE Ester	DMS-MS	100010463	.	.		.		
+254	CE(16:1)	Cholesterol Ester	CE Ester	DMS-MS	100010464	.	.		.		
+255	CE(17:0)	Cholesterol Ester	CE Ester	DMS-MS	100010270	.	.		.		
+256	CE(18:0)	Cholesterol Ester	CE Ester	DMS-MS	100010271	.	.		.		
+257	CE(18:1)	Cholesterol Ester	CE Ester	DMS-MS	100010642	.	.		.		
+258	CE(18:2)	Cholesterol Ester	CE Ester	DMS-MS	100010116	.	.		.		
+259	CE(18:3)	Cholesterol Ester	CE Ester	DMS-MS	100010117	.	.		.		
+260	CE(18:4)	Cholesterol Ester	CE Ester	DMS-MS	100009771	.	.		.		
+261	CE(20:0)	Cholesterol Ester	CE Ester	DMS-MS	100010465	.	.		.		
+262	CE(20:1)	Cholesterol Ester	CE Ester	DMS-MS	100010466	.	.		.		
+263	CE(20:2)	Cholesterol Ester	CE Ester	DMS-MS	100009772	.	.		.		
+264	CE(20:3)	Cholesterol Ester	CE Ester	DMS-MS	100010467	.	.		.		
+265	CE(20:4)	Cholesterol Ester	CE Ester	DMS-MS	100010643	.	.		.		
+266	CE(20:5)	Cholesterol Ester	CE Ester	DMS-MS	100009943	.	.		.		
+267	CE(22:0)	Cholesterol Ester	CE Ester	DMS-MS	100009773	.	.		.		
+268	CE(22:1)	Cholesterol Ester	CE Ester	DMS-MS	100009944	.	.		.		
+269	CE(22:2)	Cholesterol Ester	CE Ester	DMS-MS	100009417	.	.		.		
+270	CE(22:4)	Cholesterol Ester	CE Ester	DMS-MS	100010272	.	.		.		
+271	CE(22:5)	Cholesterol Ester	CE Ester	DMS-MS	100009945	.	.		.		
+272	CE(22:6)	Cholesterol Ester	CE Ester	DMS-MS	100010118	.	.		.		
+273	CE(24:0)	Cholesterol Ester	CE Ester	DMS-MS	100010273	.	.		.		
+274	CE(24:1)	Cholesterol Ester	CE Ester	DMS-MS	100010274	.	.		.		
+275	CER(14:0)	Sphingolipids	Ceramide	DMS-MS	100010644	.	.		.		
+276	CER(16:0)	Sphingolipids	Ceramide	DMS-MS	100010119	.	.		.		
+277	CER(18:0)	Sphingolipids	Ceramide	DMS-MS	100010468	.	.		.		
+278	CER(18:1)	Sphingolipids	Ceramide	DMS-MS	100009774	.	.		.		
+279	CER(20:0)	Sphingolipids	Ceramide	DMS-MS	100010469	.	.		.		
+280	CER(20:1)	Sphingolipids	Ceramide	DMS-MS	100010120	.	.		.		
+281	CER(22:0)	Sphingolipids	Ceramide	DMS-MS	100009775	.	.		.		
+282	CER(22:1)	Sphingolipids	Ceramide	DMS-MS	100010275	.	.		.		
+283	CER(24:0)	Sphingolipids	Ceramide	DMS-MS	100010470	.	.		.		
+284	CER(24:1)	Sphingolipids	Ceramide	DMS-MS	100009776	.	.		.		
+285	CER(26:0)	Sphingolipids	Ceramide	DMS-MS	100010645	.	.		.		
+286	CER(26:1)	Sphingolipids	Ceramide	DMS-MS	100009946	.	.		.		
+287	cerotoylcarnitine (C26)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015835	1649	540.4986		.		HMDB06347
+288	cetirizine	Xenobiotics	Drug - Respiratory	LC/MS Pos Late	100009034	1052	389.1627	83881-51-0	2678	C07778	HMDB05032
+289	C-glycosyltryptophan	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100006379	1777	365.1354	180509-18-6	10981970		
+290	chenodeoxycholate	Lipid	Primary Bile Acid Metabolism	LC/MS Neg	1123	5264	391.2854	474-24-9;474-25-9	10133	C02528	HMDB00518
+291	cholate	Lipid	Primary Bile Acid Metabolism	LC/MS Neg	136	5165	407.2803	81-25-4	221493	C00695	HMDB00619
+292	cholesterol	Lipid	Sterol	LC/MS Pos Late	266	2707	369.3516	57-88-5	11025495	C00187	HMDB00067
+293	choline	Lipid	Phospholipid Metabolism	LC/MS Pos Early	1256	1961	104.107	67-48-1	305	C00114	HMDB00097
+294	cimetidine	Xenobiotics	Drug - Gastrointestinal	LC/MS Neg	100004011	3176	251.1084	51481-61-9	.		
+295	cinnamoylglycine	Xenobiotics	Food Component/Plant	LC/MS Neg	100002253	3127	204.0666	16534-24-0	709625		HMDB11621
+296	cis-4-decenoylcarnitine (C10:1)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100002259	1057	314.2326	98930-66-6	.		
+297	citramalate	Amino Acid	Glutamate Metabolism	LC/MS Pos Early	100000998	1224	166.071	6236-10-08 00:00:00	1081	C00815	HMDB00426
+298	citrate	Energy	TCA Cycle	LC/MS Neg	1124	582	191.0197	77-92-9	311	C00158	HMDB00094
+299	citrulline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	391	1520	176.103	372-75-8	9750	C00327	HMDB00904
+300	cortisol	Lipid	Corticosteroids	LC/MS Neg	356	4710	361.202	50-23-7	5754	C00735	HMDB00063
+301	cortisone	Lipid	Corticosteroids	LC/MS Neg	273	4575	359.1864	53-06-5	222786	C00762	HMDB02802
+302	creatine	Amino Acid	Creatine Metabolism	LC/MS Pos Early	1221	1947	132.0768	57-00-1	586	C00300	HMDB00064
+303	creatinine	Amino Acid	Creatine Metabolism	LC/MS Pos Early	275	2055	114.0662	60-27-5	588	C00791	HMDB00562
+304	cyclo(gly-pro)	Peptide	Dipeptide	LC/MS Pos Early	100001946	1349	155.0815	3705-27-9	126154		
+305	cyclo(leu-pro)	Peptide	Dipeptide	LC/MS Pos Early	100001925	2591	211.1441	2873-36-1	7074739		
+306	cyclo(pro-val)	Peptide	Dipeptide	LC/MS Pos Early	100006065	2098	197.1285	2854-40-2	98951		
+307	cys-gly, oxidized	Amino Acid	Glutathione Metabolism	LC/MS Pos Early	1224	2947	355.0741	7729-20-6	333293		
+308	cystathionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	310	2270	223.0747	535-34-2	439258	C02291	HMDB00099
+309	cysteine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	800	1488	122.027	52-90-4;56-89-3	5862	C00097	HMDB00574
+310	cysteine s-sulfate	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Polar	100000808	2273	199.9693	1637-71-4	115015	C05824	HMDB00731
+311	cysteine sulfinic acid	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	100002113	597	154.0169	207121-48-0	109	C00606	HMDB00996
+312	cysteine-glutathione disulfide	Amino Acid	Glutathione Metabolism	LC/MS Pos Early	100001437	2465	427.0952	13081-14-6	4247235		HMDB00656
+313	cysteinylglycine	Amino Acid	Glutathione Metabolism	LC/MS Pos Early	278	2132	179.0485	19246-18-5	439498	C01419	HMDB00078
+314	cysteinylglycine disulfide*	Amino Acid	Glutathione Metabolism	LC/MS Pos Early	100002466	2547	298.0526	70555-24-7	.		HMDB00709
+315	cystine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	279	2000	241.0311	56-89-3	67678	C00491	HMDB00192
+316	cytidine	Nucleotide	Pyrimidine Metabolism, Cytidine containing	LC/MS Neg	827	1325	242.0782	65-46-3	6175	C00475	HMDB00089
+317	cytosine	Nucleotide	Pyrimidine Metabolism, Cytidine containing	LC/MS Pos Early	881	2060	112.0505	71-30-7	597	C00380	HMDB00630
+318	DAG(12:0/16:0)	Diacylglycerol	DAG Ester	DMS-MS	100009777	.	.		.		
+319	DAG(12:0/18:0)	Diacylglycerol	DAG Ester	DMS-MS	100010121	.	.		.		
+320	DAG(12:0/18:1)	Diacylglycerol	DAG Ester	DMS-MS	100009947	.	.		.		
+321	DAG(12:0/18:2)	Diacylglycerol	DAG Ester	DMS-MS	100009603	.	.		.		
+322	DAG(14:0/14:0)	Diacylglycerol	DAG Ester	DMS-MS	100009418	.	.		.		
+323	DAG(14:0/16:0)	Diacylglycerol	DAG Ester	DMS-MS	100010471	.	.		.		
+324	DAG(14:0/16:1)	Diacylglycerol	DAG Ester	DMS-MS	100010646	.	.		.		
+325	DAG(14:0/18:1)	Diacylglycerol	DAG Ester	DMS-MS	100009948	.	.		.		
+326	DAG(14:0/18:2)	Diacylglycerol	DAG Ester	DMS-MS	100010276	.	.		.		
+327	DAG(14:0/18:3)	Diacylglycerol	DAG Ester	DMS-MS	100010472	.	.		.		
+328	DAG(14:0/20:0)	Diacylglycerol	DAG Ester	DMS-MS	100010122	.	.		.		
+329	DAG(14:0/20:4)	Diacylglycerol	DAG Ester	DMS-MS	100010123	.	.		.		
+330	DAG(14:0/22:6)	Diacylglycerol	DAG Ester	DMS-MS	100010647	.	.		.		
+331	DAG(14:1/16:0)	Diacylglycerol	DAG Ester	DMS-MS	100009604	.	.		.		
+332	DAG(14:1/18:1)	Diacylglycerol	DAG Ester	DMS-MS	100010473	.	.		.		
+333	DAG(15:0/18:1)	Diacylglycerol	DAG Ester	DMS-MS	100009605	.	.		.		
+334	DAG(15:0/18:2)	Diacylglycerol	DAG Ester	DMS-MS	100010124	.	.		.		
+335	DAG(16:0/16:0)	Diacylglycerol	DAG Ester	DMS-MS	100010125	.	.		.		
+336	DAG(16:0/16:1)	Diacylglycerol	DAG Ester	DMS-MS	100010126	.	.		.		
+337	DAG(16:0/18:0)	Diacylglycerol	DAG Ester	DMS-MS	100010648	.	.		.		
+338	DAG(16:0/18:1)	Diacylglycerol	DAG Ester	DMS-MS	100009778	.	.		.		
+339	DAG(16:0/18:2)	Diacylglycerol	DAG Ester	DMS-MS	100009419	.	.		.		
+340	DAG(16:0/18:3)	Diacylglycerol	DAG Ester	DMS-MS	100010127	.	.		.		
+341	DAG(16:0/20:3)	Diacylglycerol	DAG Ester	DMS-MS	100010649	.	.		.		
+342	DAG(16:0/20:4)	Diacylglycerol	DAG Ester	DMS-MS	100009606	.	.		.		
+343	DAG(16:0/20:5)	Diacylglycerol	DAG Ester	DMS-MS	100010650	.	.		.		
+344	DAG(16:0/22:5)	Diacylglycerol	DAG Ester	DMS-MS	100010474	.	.		.		
+345	DAG(16:0/22:6)	Diacylglycerol	DAG Ester	DMS-MS	100010128	.	.		.		
+346	DAG(16:1/16:1)	Diacylglycerol	DAG Ester	DMS-MS	100009779	.	.		.		
+347	DAG(16:1/18:0)	Diacylglycerol	DAG Ester	DMS-MS	100010277	.	.		.		
+348	DAG(16:1/18:1)	Diacylglycerol	DAG Ester	DMS-MS	100010278	.	.		.		
+349	DAG(16:1/18:2)	Diacylglycerol	DAG Ester	DMS-MS	100009780	.	.		.		
+350	DAG(16:1/18:3)	Diacylglycerol	DAG Ester	DMS-MS	100010129	.	.		.		
+351	DAG(16:1/20:0)	Diacylglycerol	DAG Ester	DMS-MS	100010651	.	.		.		
+352	DAG(16:1/20:2)	Diacylglycerol	DAG Ester	DMS-MS	100010279	.	.		.		
+353	DAG(16:1/20:4)	Diacylglycerol	DAG Ester	DMS-MS	100009420	.	.		.		
+354	DAG(16:1/22:6)	Diacylglycerol	DAG Ester	DMS-MS	100009607	.	.		.		
+355	DAG(18:0/18:1)	Diacylglycerol	DAG Ester	DMS-MS	100010652	.	.		.		
+356	DAG(18:0/18:2)	Diacylglycerol	DAG Ester	DMS-MS	100009421	.	.		.		
+357	DAG(18:0/18:3)	Diacylglycerol	DAG Ester	DMS-MS	100010130	.	.		.		
+358	DAG(18:0/22:6)	Diacylglycerol	DAG Ester	DMS-MS	100009422	.	.		.		
+359	DAG(18:1/18:1)	Diacylglycerol	DAG Ester	DMS-MS	100009423	.	.		.		
+360	DAG(18:1/18:2)	Diacylglycerol	DAG Ester	DMS-MS	100009424	.	.		.		
+361	DAG(18:1/20:1)	Diacylglycerol	DAG Ester	DMS-MS	100009949	.	.		.		
+362	DAG(18:1/20:2)	Diacylglycerol	DAG Ester	DMS-MS	100010475	.	.		.		
+363	DAG(18:1/20:3)	Diacylglycerol	DAG Ester	DMS-MS	100009781	.	.		.		
+364	DAG(18:1/20:4)	Diacylglycerol	DAG Ester	DMS-MS	100009608	.	.		.		
+365	DAG(18:1/20:5)	Diacylglycerol	DAG Ester	DMS-MS	100009425	.	.		.		
+366	DAG(18:1/22:4)	Diacylglycerol	DAG Ester	DMS-MS	100009426	.	.		.		
+367	DAG(18:1/22:5)	Diacylglycerol	DAG Ester	DMS-MS	100009950	.	.		.		
+368	DAG(18:1/22:6)	Diacylglycerol	DAG Ester	DMS-MS	100009609	.	.		.		
+369	DAG(18:2/18:3)	Diacylglycerol	DAG Ester	DMS-MS	100009427	.	.		.		
+370	DAG(18:2/20:3)	Diacylglycerol	DAG Ester	DMS-MS	100010280	.	.		.		
+371	DAG(18:2/20:4)	Diacylglycerol	DAG Ester	DMS-MS	100009610	.	.		.		
+372	DAG(18:2/20:5)	Diacylglycerol	DAG Ester	DMS-MS	100010653	.	.		.		
+373	DAG(18:2/22:4)	Diacylglycerol	DAG Ester	DMS-MS	100010281	.	.		.		
+374	DAG(18:2/22:5)	Diacylglycerol	DAG Ester	DMS-MS	100009611	.	.		.		
+375	DAG(18:2/22:6)	Diacylglycerol	DAG Ester	DMS-MS	100010654	.	.		.		
+376	daidzein sulfate (2)	Xenobiotics	Food Component/Plant	LC/MS Neg	100006363	3330	333.0076		.		
+377	DCER(14:0)	Sphingolipids	Dihydroceramide	DMS-MS	100009951	.	.		.		
+378	DCER(16:0)	Sphingolipids	Dihydroceramide	DMS-MS	100010282	.	.		.		
+379	DCER(18:0)	Sphingolipids	Dihydroceramide	DMS-MS	100009612	.	.		.		
+380	DCER(18:1)	Sphingolipids	Dihydroceramide	DMS-MS	100010131	.	.		.		
+381	DCER(20:0)	Sphingolipids	Dihydroceramide	DMS-MS	100009428	.	.		.		
+382	DCER(20:1)	Sphingolipids	Dihydroceramide	DMS-MS	100010132	.	.		.		
+383	DCER(22:0)	Sphingolipids	Dihydroceramide	DMS-MS	100009613	.	.		.		
+384	DCER(22:1)	Sphingolipids	Dihydroceramide	DMS-MS	100016011	.	.		.		
+385	DCER(22:2)	Sphingolipids	Dihydroceramide	DMS-MS	100009952	.	.		.		
+386	DCER(24:0)	Sphingolipids	Dihydroceramide	DMS-MS	100010476	.	.		.		
+387	DCER(24:1)	Sphingolipids	Dihydroceramide	DMS-MS	100009614	.	.		.		
+388	DCER(26:0)	Sphingolipids	Dihydroceramide	DMS-MS	100009782	.	.		.		
+389	DCER(26:1)	Sphingolipids	Dihydroceramide	DMS-MS	100009429	.	.		.		
+390	decanoylcarnitine (C10)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100001251	1130	316.2482	1492-27-9	10245190		HMDB00651
+391	dehydroisoandrosterone sulfate (DHEA-S)	Lipid	Androgenic Steroids	LC/MS Neg	100000792	4745	367.1585	651-48-9	12594	C04555	HMDB01032
+392	delta-CEHC*	Cofactors and Vitamins	Tocopherol Metabolism	LC/MS Neg	100020416	3422	249.1132	84599-16-6	11536125		
+393	deoxycarnitine	Lipid	Carnitine Metabolism	LC/MS Pos Early	100001662	2052	146.1176	6249-56-5	134	C01181	HMDB01161
+394	deoxycholate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	302	5294	391.2854	83-44-3	222528	C04483	HMDB00626
+395	dihomo-linolenoylcarnitine (C20:3n3 or 6)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015840	1392	450.3578		.		
+396	dihomo-linoleoylcarnitine (C20:2)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015839	1436	452.3734		.		
+397	dihydroferulic acid	Xenobiotics	Food Component/Plant	LC/MS Neg	100003432	1928	195.0663	1135-23-5	14340		
+398	dihydroorotate	Nucleotide	Pyrimidine Metabolism, Orotate containing	LC/MS Polar	923	1910	157.0255	155-54-4	648	C00337	HMDB03349
+399	dimethylarginine (SDMA + ADMA)	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	100001810	2850	203.1503	102783-24-4	123831	C03626	HMDB01539
+400	dimethylglycine	Amino Acid	Glycine, Serine and Threonine Metabolism	LC/MS Pos Early	806	1104	104.0706	1118-68-9	673	C01026	HMDB00092
+401	docosadioate (C22-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100002952	5291.8	369.301	505-56-6	244872	C19625	
+402	dodecanedioate (C12-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100001102	2990	229.1445	693-23-2	12736	C02678	HMDB00623
+403	dodecenedioate (C12:1-DC)*	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100019972	2700	227.1289		.		
+404	dopamine 3-O-sulfate	Amino Acid	Tyrosine Metabolism	LC/MS Neg	100006361	1556.2	232.0285		122136	C13690	HMDB06275
+405	dopamine 4-sulfate	Amino Acid	Tyrosine Metabolism	LC/MS Neg	100006360	1511	232.0285		123932	C13691	HMDB04148
+406	Fibrinopeptide A, des-ala(1)*	Peptide	Fibrinogen Cleavage Peptide	LC/MS Neg	100001323	2535	731.3168		.		
+407	ectoine	Xenobiotics	Chemical	LC/MS Pos Early	100001635	1980	143.0815	96702-03-3	126041	C06231	
+408	eicosanodioate (C20-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100002951	5200.9	341.2697	2424-92-2	75502		
+409	eicosenoylcarnitine (C20:1)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015838	1484	454.3891		.		
+410	epiandrosterone sulfate	Lipid	Androgenic Steroids	LC/MS Neg	100001287	4855	369.1741	22229-22-7	9929317		
+411	equol glucuronide	Xenobiotics	Food Component/Plant	LC/MS Neg	100003895	3215	417.1191		.		
+412	equol sulfate	Xenobiotics	Food Component/Plant	LC/MS Neg	100003429	3630	321.0438		.		
+413	ergothioneine	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100002154	850	230.0958	58511-63-0	3032311	C05570	HMDB03045
+414	erythritol	Xenobiotics	Food Component/Plant	LC/MS Polar	100000846	1491	167.0561	149-32-6	222285	C00503	HMDB02994
+415	erythronate*	Carbohydrate	Aminosugar Metabolism	LC/MS Polar	100001320	2186	135.0299	88759-55-1	2781043		HMDB00613
+416	ethylmalonate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Polar	2054	2785	131.035	601-75-2	11756		HMDB00622
+417	etiocholanolone glucuronide	Lipid	Androgenic Steroids	LC/MS Neg	100005403	4915	465.2494	3602-09-03 00:00:00	270605		HMDB04484
+418	eugenol sulfate	Xenobiotics	Food Component/Plant	LC/MS Neg	100006171	3782	243.0333	95480-60-7	180632		
+419	ferulic acid 4-sulfate	Xenobiotics	Food Component/Plant	LC/MS Neg	100005389	1200	273.0074	86321-29-1	6305574		HMDB29200
+420	FFA(12:0)	Free Fatty Acids	Saturated FFA	DMS-MS	100010656	.	.		.		
+421	FFA(14:0)	Free Fatty Acids	Saturated FFA	DMS-MS	100009615	.	.		.		
+422	FFA(14:1)	Free Fatty Acids	Monounsaturated FFA	DMS-MS	100010133	.	.		.		
+423	FFA(15:0)	Free Fatty Acids	Saturated FFA	DMS-MS	100010283	.	.		.		
+424	FFA(16:0)	Free Fatty Acids	Saturated FFA	DMS-MS	100010134	.	.		.		
+425	FFA(16:1)	Free Fatty Acids	Monounsaturated FFA	DMS-MS	100010284	.	.		.		
+426	FFA(17:0)	Free Fatty Acids	Saturated FFA	DMS-MS	100009616	.	.		.		
+427	FFA(18:0)	Free Fatty Acids	Saturated FFA	DMS-MS	100009953	.	.		.		
+428	FFA(18:1)	Free Fatty Acids	Monounsaturated FFA	DMS-MS	100009617	.	.		.		
+429	FFA(18:2)	Free Fatty Acids	Polyunsaturated FFA (PUFA)	DMS-MS	100009783	.	.		.		
+430	FFA(18:4)	Free Fatty Acids	Polyunsaturated FFA (PUFA)	DMS-MS	100009784	.	.		.		
+431	FFA(20:0)	Free Fatty Acids	Saturated FFA	DMS-MS	100009618	.	.		.		
+432	FFA(20:1)	Free Fatty Acids	Monounsaturated FFA	DMS-MS	100010135	.	.		.		
+433	FFA(20:2)	Free Fatty Acids	Polyunsaturated FFA (PUFA)	DMS-MS	100010285	.	.		.		
+434	FFA(20:3)	Free Fatty Acids	Polyunsaturated FFA (PUFA)	DMS-MS	100010286	.	.		.		
+435	FFA(20:4)	Free Fatty Acids	Polyunsaturated FFA (PUFA)	DMS-MS	100009619	.	.		.		
+436	FFA(20:5)	Free Fatty Acids	Polyunsaturated FFA (PUFA)	DMS-MS	100010477	.	.		.		
+437	FFA(22:0)	Free Fatty Acids	Saturated FFA	DMS-MS	100010287	.	.		.		
+438	FFA(22:1)	Free Fatty Acids	Monounsaturated FFA	DMS-MS	100009620	.	.		.		
+439	FFA(22:2)	Free Fatty Acids	Polyunsaturated FFA (PUFA)	DMS-MS	100009431	.	.		.		
+440	FFA(22:4)	Free Fatty Acids	Polyunsaturated FFA (PUFA)	DMS-MS	100009785	.	.		.		
+441	FFA(22:5)	Free Fatty Acids	Polyunsaturated FFA (PUFA)	DMS-MS	100010657	.	.		.		
+442	FFA(22:6)	Free Fatty Acids	Polyunsaturated FFA (PUFA)	DMS-MS	100009954	.	.		.		
+443	FFA(24:0)	Free Fatty Acids	Saturated FFA	DMS-MS	100009955	.	.		.		
+444	FFA(24:1)	Free Fatty Acids	Monounsaturated FFA	DMS-MS	100010288	.	.		.		
+445	fluconazole	Xenobiotics	Drug - Antibiotic	LC/MS Pos Early	100015972	2731	307.1114	86386-73-4	3365	D00322	HMDB14342
+446	formiminoglutamate	Amino Acid	Histidine Metabolism	LC/MS Pos Early	100002500	1880	175.0713	816-90-0	439233	C00439	HMDB00854
+447	fructose	Carbohydrate	Fructose, Mannose and Galactose Metabolism	LC/MS Polar	878	2065	225.0616	57-48-7	5984	C00095	HMDB00660
+448	fumarate	Energy	TCA Cycle	LC/MS Polar	330	3084	115.0037	100-17-8	444972	C00122	HMDB00134
+449	gamma-CEHC	Cofactors and Vitamins	Tocopherol Metabolism	LC/MS Neg	100002094	3843	263.1289	178167-75-4	133098		HMDB01931
+450	gamma-CEHC glucuronide*	Cofactors and Vitamins	Tocopherol Metabolism	LC/MS Neg	100004243	2500	439.161		.		
+451	gamma-glutamylalanine	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	100001843	1986	219.0976	5875-41-2	440103		HMDB29142
+452	gamma-glutamyl-alpha-lysine	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	100010901	2784	276.1554		65254		
+453	gamma-glutamylcitrulline*	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	100020241	1644	305.1456		.		
+454	gamma-glutamylglutamate	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	331	1775	277.103	1116-22-9	92865	C05282	HMDB11737
+455	gamma-glutamylglutamine	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	1140	1430	276.119	10148-81-9	150914	C05283	HMDB11738
+456	gamma-glutamylglycine	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	100001294	1535	205.0819	1948-29-4	165527		HMDB11667
+457	gamma-glutamylhistidine	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	1235	2740	285.1194	37460-15-4	7017195		
+458	gamma-glutamylisoleucine*	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	100001485	2940	261.1445		14253342		HMDB11170
+459	gamma-glutamylleucine	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	1268	2991	261.1445	2566-39-4	151023		HMDB11171
+460	gamma-glutamylmethionine	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	100001313	2640	279.1009	17663-87-5	7009567		HMDB29155
+461	gamma-glutamylphenylalanine	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	100000491	2992	295.1289	7432-24-8	111299		HMDB00594
+462	gamma-glutamylthreonine	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	100001314	1750	249.1081	5652-48-2	76078708		HMDB29159
+463	gamma-glutamyltryptophan	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	100001295	2975	334.1398	66471-20-3	3989307		HMDB29160
+464	gamma-glutamyltyrosine	Peptide	Gamma-glutamyl Amino Acid	LC/MS Neg	1102	1240	309.1092	7432-23-7	94340		HMDB11741
+465	gamma-glutamylvaline	Peptide	Gamma-glutamyl Amino Acid	LC/MS Pos Early	100001126	2700	247.1289	2746-34-1	7015683		HMDB11172
+466	gamma-tocopherol/beta-tocopherol	Cofactors and Vitamins	Tocopherol Metabolism	LC/MS Pos Late	100008998	2384	416.3643		.		
+467	genistein sulfate*	Xenobiotics	Food Component/Plant	LC/MS Neg	100020207	3616	349.0024		.		
+468	gentisate	Amino Acid	Tyrosine Metabolism	LC/MS Polar	100000447	905	153.0193	490-79-9	3469	C00628	HMDB00152
+469	gluconate	Xenobiotics	Food Component/Plant	LC/MS Polar	338	2922	195.051	527-07-1	10690	C00257	HMDB00625
+470	glucose	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	LC/MS Polar	572	2342	179.0561	50-99-7	79025	C00031	HMDB00122
+471	glucuronate	Carbohydrate	Aminosugar Metabolism	LC/MS Polar	100000257	3233.3	193.0354	207300-70-7	444791	C00191	HMDB00127
+472	glucuronide of C10H18O2 (1)*	Partially Characterized Molecules	Partially Characterized Molecules	LC/MS Neg	100019990	2728	345.1555		.		
+473	glucuronide of C10H18O2 (5)*	Partially Characterized Molecules	Partially Characterized Molecules	LC/MS Neg	100020012	3582	345.1555		.		
+474	glucuronide of C10H18O2 (7)*	Partially Characterized Molecules	Partially Characterized Molecules	LC/MS Neg	100020014	3790	345.1555		.		
+475	glucuronide of C10H18O2 (8)*	Partially Characterized Molecules	Partially Characterized Molecules	LC/MS Neg	100020015	3865	345.1555		.		
+476	glucuronide of C12H22O4 (1)*	Partially Characterized Molecules	Partially Characterized Molecules	LC/MS Neg	100019984	2590	405.1766		.		
+477	glucuronide of C14H26O4 (1)*	Partially Characterized Molecules	Partially Characterized Molecules	LC/MS Neg	100019986	3200	433.2079		.		
+478	glucuronide of piperine metabolite C17H21NO3 (3)*	Xenobiotics	Food Component/Plant	LC/MS Neg	100020491	3951	462.177		.		
+479	glucuronide of piperine metabolite C17H21NO3 (4)*	Xenobiotics	Food Component/Plant	LC/MS Neg	100020492	3992	462.177		.		
+480	glucuronide of piperine metabolite C17H21NO3 (5)*	Xenobiotics	Food Component/Plant	LC/MS Neg	100020493	4039	462.177		.		
+481	glutamate	Amino Acid	Glutamate Metabolism	LC/MS Pos Early	561	1500	148.0604	56-86-0	611	C00025	HMDB00148
+482	glutamine	Amino Acid	Glutamate Metabolism	LC/MS Pos Early	563	1291	147.0764	56-85-9	5961	C00064	HMDB00641
+483	glutarate (C5-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Polar	339	2900	131.035	110-94-1	743	C00489	HMDB00661
+484	glutarylcarnitine (C5-DC)	Amino Acid	Lysine Metabolism	LC/MS Pos Early	100001593	2393	276.1442	102636-82-8	71464488		HMDB13130
+485	glycerate	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	LC/MS Polar	1052	2070.4	105.0193	600-19-1	752	C00258	HMDB00139
+486	glycerol	Lipid	Glycerolipid Metabolism	LC/MS Neg	1254	758	91.0401	56-81-5	753	C00116	HMDB00131
+487	glycerol 3-phosphate	Lipid	Glycerolipid Metabolism	LC/MS Pos Early	100000258	580	173.021	29849-82-9	754	C00093	HMDB00126
+488	glycerophosphoethanolamine	Lipid	Phospholipid Metabolism	LC/MS Pos Early	100001620	659	216.0632	33049-08-0	123874	C01233	HMDB00114
+489	glycerophosphoglycerol	Lipid	Glycerolipid Metabolism	LC/MS Polar	100001619	2430	245.0432		439964	C03274	
+490	glycerophosphorylcholine (GPC)	Lipid	Phospholipid Metabolism	LC/MS Pos Early	100000269	672	258.1101	28319-77-9	71920	C00670	HMDB00086
+491	glycine	Amino Acid	Glycine, Serine and Threonine Metabolism	LC/MS Pos Early	340	1375	76.0393	56-40-6	750	C00037	HMDB00123
+492	glycine conjugate of C10H14O2 (1)*	Partially Characterized Molecules	Partially Characterized Molecules	LC/MS Neg	100020254	4335	222.1136		.		
+493	glyco-beta-muricholate**	Lipid	Primary Bile Acid Metabolism	LC/MS Neg	100020214	4762	464.3018		.		
+494	glycochenodeoxycholate	Lipid	Primary Bile Acid Metabolism	LC/MS Neg	1628	5236.1	448.3068	16564-43-5	12544	C05466	HMDB00637
+495	glycochenodeoxycholate glucuronide (1)	Lipid	Primary Bile Acid Metabolism	LC/MS Neg	100009264	4806	311.6658		.		
+496	glycochenodeoxycholate sulfate	Lipid	Primary Bile Acid Metabolism	LC/MS Neg	100006641	4820	263.6282		.		
+497	glycocholate	Lipid	Primary Bile Acid Metabolism	LC/MS Neg	342	5163	464.3018	475-31-0;863-57-0	10140	C01921	HMDB00138
+498	glycocholenate sulfate*	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100001989	4750	254.6229		.		
+499	glycodeoxycholate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100000436	5281	448.3068	360-65-6	3035026	C05464	HMDB00631
+500	glycodeoxycholate sulfate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100006642	4875	263.6282		.		
+501	glycohyocholate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100004083	5020	464.3018		.		
+502	glycolate (hydroxyacetate)	Xenobiotics	Chemical	LC/MS Polar	203	1790.4	159.0107	79-14-1	757	C00160	HMDB00115
+503	glycolithocholate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100001064	5357.1	432.3119	474-74-8	115245	C15557	HMDB00698
+504	glycolithocholate sulfate*	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100001657	5011	255.6307	15324-64-8	72222	C11301	HMDB02639
+505	glycoursodeoxycholate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100002911	5033	448.3068	64480-66-6	12310288		HMDB00708
+506	guaiacol sulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100004208	2344	203.002		22473		HMDB60013
+507	guanidinoacetate	Amino Acid	Creatine Metabolism	LC/MS Polar	344	2884	116.0466	352-97-6	763	C00581	HMDB00128
+508	guanine	Nucleotide	Purine Metabolism, Guanine containing	LC/MS Pos Early	172	2032	152.0567	73-40-5	764	C00242	HMDB00132
+509	guanosine	Nucleotide	Purine Metabolism, Guanine containing	LC/MS Neg	1099	1662	282.0844	118-00-3	6802	C00387	HMDB00133
+510	gulonate*	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	LC/MS Polar	100001586	2750	195.051	20246-53-1	9794176	C00257	HMDB03290
+511	HCER(14:0)	Sphingolipids	Hexosylceramide	DMS-MS	100009956	.	.		.		
+512	HCER(16:0)	Sphingolipids	Hexosylceramide	DMS-MS	100009957	.	.		.		
+513	HCER(18:0)	Sphingolipids	Hexosylceramide	DMS-MS	100009786	.	.		.		
+514	HCER(18:1)	Sphingolipids	Hexosylceramide	DMS-MS	100009958	.	.		.		
+515	HCER(20:0)	Sphingolipids	Hexosylceramide	DMS-MS	100009787	.	.		.		
+516	HCER(20:1)	Sphingolipids	Hexosylceramide	DMS-MS	100010658	.	.		.		
+517	HCER(22:0)	Sphingolipids	Hexosylceramide	DMS-MS	100009621	.	.		.		
+518	HCER(22:1)	Sphingolipids	Hexosylceramide	DMS-MS	100009622	.	.		.		
+519	HCER(24:0)	Sphingolipids	Hexosylceramide	DMS-MS	100010659	.	.		.		
+520	HCER(24:1)	Sphingolipids	Hexosylceramide	DMS-MS	100010660	.	.		.		
+521	HCER(26:0)	Sphingolipids	Hexosylceramide	DMS-MS	100009959	.	.		.		
+522	HCER(26:1)	Sphingolipids	Hexosylceramide	DMS-MS	100010136	.	.		.		
+523	heme	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	LC/MS Neg	100001386	5325	632.1722	14875-96-8	26945	C00032	HMDB03178
+524	heptanoate (7:0)	Lipid	Medium Chain Fatty Acid	LC/MS Neg	925	3670	129.0921	111-14-8	8094	C17714	HMDB00666
+525	heptenedioate (C7:1-DC)*	Lipid	Fatty Acid, Dicarboxylate	LC/MS Polar	100019981	2816	157.0506		.		
+526	hexadecanedioate (C16-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100001614	4615	285.2071	505-54-4	10459	C19615	HMDB00672
+527	hexadecenedioate (C16:1-DC)*	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100019975	4380	283.1915		.		
+528	hexanoylcarnitine (C6)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Early	100000781	3308	260.1856	6920-35-0	6426853		HMDB00705
+529	hexanoylglutamine	Lipid	Fatty Acid Metabolism (Acyl Glutamine)	LC/MS Neg	100001733	2780	243.135		.		
+530	hexanoylglycine	Lipid	Fatty Acid Metabolism(Acyl Glycine)	LC/MS Neg	100001527	2900	172.0979	24003-67-6	99463		HMDB00701
+531	hippurate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100000014	2106.9	178.051	495-69-2	464	C01586	HMDB00714
+532	histidine	Amino Acid	Histidine Metabolism	LC/MS Neg	355	755.9	154.0622	5934-29-2	6274	C00135	HMDB00177
+533	homoarginine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	100000961	2882	189.1346	156-86-5	9085	C01924	HMDB00670
+534	homocitrulline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Neg	100000963	789	188.1041	1190-49-4	65072	C02427	HMDB00679
+535	homostachydrine*	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100001550	1750	158.1176	1195-94-4	441447	C08283	HMDB33433
+536	homovanillate (HVA)	Amino Acid	Tyrosine Metabolism	LC/MS Neg	117	1649	181.0506	306-08-1	1738	C05582	HMDB00118
+537	hydantoin-5-propionic acid	Amino Acid	Histidine Metabolism	LC/MS Polar	100002514	2080	171.0411	5624-26-0	782	C05565	HMDB01212
+538	hydroquinone beta-D-glucopyranoside	Xenobiotics	Food Component/Plant	LC/MS Neg	100002220	1520	271.0823	497-76-7	346	C06186	HMDB29943
+539	hydroquinone sulfate	Xenobiotics	Drug - Topical Agents	LC/MS Neg	100001604	1395	188.9863	123-31-9	161220	C00530	HMDB02434
+540	hydroxyasparagine**	Amino Acid	Alanine and Aspartate Metabolism	LC/MS Pos Early	100020205	1149	149.0557		97663	C03124	HMDB32332
+541	hydroxy-CMPF*	Xenobiotics	Chemical	LC/MS Neg	100019794	1516	255.0874		.		
+542	trans-4-hydroxyproline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	1001	1064	132.0655	51-35-4	5810	C01157	HMDB00725
+543	hyocholate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100001279	5046	407.2803	547-75-1	92805	C17649	HMDB00760
+544	hypotaurine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	358	724	110.027	300-84-5	107812	C00519	HMDB00965
+545	hypoxanthine	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	LC/MS Neg	171	1291.2	135.0312	68-94-0	790	C00262	HMDB00157
+546	ibuprofen	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	1487	4925	205.1234	15687-27-1	3672	D00126	HMDB01925
+547	ibuprofen acyl glucuronide	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	100002406	4976	381.1555	115075-59-7	163959		
+548	imidazole lactate	Amino Acid	Histidine Metabolism	LC/MS Pos Early	100000263	2040	157.0608	14403-45-3	440129	C05568	HMDB02320
+549	imidazole propionate	Amino Acid	Histidine Metabolism	LC/MS Pos Early	100003434	2263	141.0659	1074-59-5	70630		HMDB02271
+550	indoleacetate	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100001034	2200	174.0561	6505-45-9	802	C00954	HMDB00197
+551	indoleacetylcarnitine*	Xenobiotics	Chemical	LC/MS Pos Early	100020479	3114	319.1652		.		
+552	indoleacetylglutamine	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100001731	2535	302.1146		25200879		HMDB13240
+553	indolelactate	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100000463	2286	204.0666	832-97-3	92904	C02043	HMDB00671
+554	indolepropionate	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100001083	2795	188.0717	830-96-6	3744		HMDB02302
+555	inosine	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	LC/MS Neg	361	1602.1	267.0735	58-63-9	6021	C00294	HMDB00195
+556	isobutyrylcarnitine (C4)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Pos Early	100001055	2810	232.1543	25518-49-4	168379		HMDB00736
+557	isobutyrylglycine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100001590	1420	144.0666	15926-18-8	10855600		HMDB00730
+558	isocitrate	Energy	TCA Cycle	LC/MS Pos Early	1206	773	210.0608	20226-99-7	1198	C00311	HMDB00193
+559	isocitric lactone	Energy	TCA Cycle	LC/MS Polar	100009239	2970	173.0092	4702-32-3	98259		
+560	isoeugenol sulfate	Xenobiotics	Food Component/Plant	LC/MS Neg	100006089	3893	243.0333		.		
+561	isoleucine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Pos Early	376	2800	132.1019	73-32-5	6306	C00407	HMDB00172
+562	isoleucylglycine	Peptide	Dipeptide	LC/MS Neg	100003169	1992	187.1088	868-28-0	342532		HMDB28907
+563	isoursodeoxycholate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100002488	4809	391.2854	78919-26-3	127601	C17662	HMDB00686
+564	isovalerate (i5:0)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100000708	1564	101.0608	503-74-2	10430	C08262	HMDB00718
+565	isovalerylcarnitine (C5)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Pos Early	100001393	3085	246.17	31023-24-2	6426851		HMDB00688
+566	isovalerylglycine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100001452	1950	158.0823	16284-60-9	546304		HMDB00678
+567	kynurenate	Amino Acid	Tryptophan Metabolism	LC/MS Neg	98	2224	188.0353	492-27-3	3845	C01717	HMDB00715
+568	kynurenine	Amino Acid	Tryptophan Metabolism	LC/MS Pos Early	100000265	2739	209.0921	2922-83-0	161166	C00328	HMDB00684
+569	lactate	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	LC/MS Neg	482	681.6	89.0244	79-33-4	612	C00186	HMDB00190
+570	lamotrigine	Xenobiotics	Drug - Neurological	LC/MS Pos Early	100009390	3379	256.0151		3878	D00354	HMDB14695,HMDB05043
+571	lanthionine	Xenobiotics	Chemical	LC/MS Pos Early	100003892	1730	209.0591	3183-08-02 00:00:00	98504		
+572	laurylcarnitine (C12)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100001392	1235	344.2795	25518-54-1	10427569		HMDB02250
+573	LCER(14:0)	Sphingolipids	Lactosylceramide	DMS-MS	100009432	.	.		.		
+574	LCER(16:0)	Sphingolipids	Lactosylceramide	DMS-MS	100010289	.	.		.		
+575	LCER(18:0)	Sphingolipids	Lactosylceramide	DMS-MS	100009623	.	.		.		
+576	LCER(18:1)	Sphingolipids	Lactosylceramide	DMS-MS	100009624	.	.		.		
+577	LCER(20:0)	Sphingolipids	Lactosylceramide	DMS-MS	100009625	.	.		.		
+578	LCER(20:1)	Sphingolipids	Lactosylceramide	DMS-MS	100009960	.	.		.		
+579	LCER(22:0)	Sphingolipids	Lactosylceramide	DMS-MS	100009788	.	.		.		
+580	LCER(22:1)	Sphingolipids	Lactosylceramide	DMS-MS	100010290	.	.		.		
+581	LCER(24:0)	Sphingolipids	Lactosylceramide	DMS-MS	100010137	.	.		.		
+582	LCER(24:1)	Sphingolipids	Lactosylceramide	DMS-MS	100009626	.	.		.		
+583	LCER(26:0)	Sphingolipids	Lactosylceramide	DMS-MS	100009789	.	.		.		
+584	LCER(26:1)	Sphingolipids	Lactosylceramide	DMS-MS	100009790	.	.		.		
+585	leucine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Pos Early	397	2864	132.1019	61-90-5	6106	C00123	HMDB00687
+586	leucylglycine	Peptide	Dipeptide	LC/MS Neg	100003185	2050	187.1088	686-50-0	79070		HMDB28929
+587	lignoceroylcarnitine (C24)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015834	1603	512.4673		.		
+588	linolenoylcarnitine (C18:3)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015831	1310	422.3265		.		
+589	linoleoyl ethanolamide	Lipid	Endocannabinoid	LC/MS Neg	100006726	6150	322.2752	68171-52-8	5283446		HMDB12252
+590	linoleoylcarnitine (C18:2)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100003151	1430	424.3421	36816-10-1	6450015		HMDB06469
+591	LPC(14:0)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100009433	.	.		.		
+592	LPC(15:0)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100009434	.	.		.		
+593	LPC(16:0)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100009435	.	.		.		
+594	LPC(16:1)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100009627	.	.		.		
+595	LPC(17:0)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100010291	.	.		.		
+596	LPC(18:0)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100010292	.	.		.		
+597	LPC(18:1)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100010293	.	.		.		
+598	LPC(18:2)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100010479	.	.		.		
+599	LPC(18:3)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100010661	.	.		.		
+600	LPC(20:0)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100009628	.	.		.		
+601	LPC(20:1)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100009961	.	.		.		
+602	LPC(20:2)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100010138	.	.		.		
+603	LPC(20:3)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100010294	.	.		.		
+604	LPC(20:4)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100009629	.	.		.		
+605	LPC(20:5)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100009792	.	.		.		
+606	LPC(22:4)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100009963	.	.		.		
+607	LPC(22:5)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100010481	.	.		.		
+608	LPC(22:6)	Lysophosphatidylcholine	LPC Ester	DMS-MS	100009793	.	.		.		
+609	LPE(14:0)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009631	.	.		.		
+610	LPE(15:0)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009794	.	.		.		
+611	LPE(16:0)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100010664	.	.		.		
+612	LPE(16:1)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100010295	.	.		.		
+613	LPE(17:0)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100010141	.	.		.		
+614	LPE(18:0)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009632	.	.		.		
+615	LPE(18:1)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009436	.	.		.		
+616	LPE(18:2)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009965	.	.		.		
+617	LPE(18:3)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100010665	.	.		.		
+618	LPE(20:0)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009437	.	.		.		
+619	LPE(20:1)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009795	.	.		.		
+620	LPE(20:2)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009966	.	.		.		
+621	LPE(20:3)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100010482	.	.		.		
+622	LPE(20:4)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009633	.	.		.		
+623	LPE(20:5)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100010142	.	.		.		
+624	LPE(22:4)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009635	.	.		.		
+625	LPE(22:5)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100010667	.	.		.		
+626	LPE(22:6)	Lysophosphatidylethanolamine	LPE Ester	DMS-MS	100009797	.	.		.		
+627	lysine	Amino Acid	Lysine Metabolism	LC/MS Pos Early	407	2850	147.1128	56-87-1	5962	C00047	HMDB00182
+628	malate	Energy	TCA Cycle	LC/MS Neg	409	615.6	133.0143	6915-15-7	525	C00149	HMDB00156
+629	maltose	Carbohydrate	Glycogen Metabolism	LC/MS Polar	913	3329.4	387.1144	6363-53-7	10991489	C00208	HMDB00163
+630	maltotriose	Carbohydrate	Glycogen Metabolism	LC/MS Neg	100000276	812	503.1618	1109-28-0	439586	C01835	HMDB01262
+631	mannitol/sorbitol	Carbohydrate	Fructose, Mannose and Galactose Metabolism	LC/MS Polar	100001740	2320	181.0718		5780	C00794	HMDB00247
+632	mannose	Carbohydrate	Fructose, Mannose and Galactose Metabolism	LC/MS Polar	803	2200	225.0616	3458-28-4	18950	C00159	HMDB00169
+633	margaroylcarnitine (C17)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100004054	1424	414.3578	106182-29-0	.		HMDB06210
+634	methionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	415	2526	150.0583	63-68-3	6137	C00073	HMDB00696
+635	methionine sulfone	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	100004635	1250	182.0482	820-10-0	69961		
+636	methionine sulfoxide	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	100000039	1272	166.0533	3226-65-1	158980	C02989	HMDB02005
+637	methyl glucopyranoside (alpha + beta)	Xenobiotics	Food Component/Plant	LC/MS Neg	100005864	1070	193.0718		.		
+638	methyl-4-hydroxybenzoate sulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100006116	2873	230.9969		.		
+639	methylsuccinate	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Polar	2051	2800	131.035	498-21-5	10349		HMDB01844
+640	myristoleoylcarnitine (C14:1)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100006051	1316	370.2947	889848-55-9	90659872		
+641	myristoylcarnitine (C14)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100001270	1350	372.3108	18822-89-4	6426854		HMDB05066
+642	N-(2-furoyl)glycine	Xenobiotics	Food Component/Plant	LC/MS Neg	100001086	1525	168.0302	5657-19-2;5657-19-2	21863		HMDB00439
+643	N1-Methyl-2-pyridone-5-carboxamide	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	LC/MS Neg	100001468	1668	151.0513	701-44-0	69698	C05842	HMDB04193
+644	N1-methylinosine	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	LC/MS Pos Early	100001409	1430	283.1037	20245-33-4	65095		HMDB02721
+645	N2,N2-dimethylguanosine	Nucleotide	Purine Metabolism, Guanine containing	LC/MS Pos Early	100001412	2210	312.1303	2140-67-2	92919		HMDB04824
+646	N4-acetylcytidine	Nucleotide	Pyrimidine Metabolism, Cytidine containing	LC/MS Pos Early	100001413	1580	286.1034	3768-18-1	107461		HMDB05923
+647	N6,N6,N6-trimethyllysine	Amino Acid	Lysine Metabolism	LC/MS Pos Early	189	2825	189.1598	23284-33-5	440120	C03793	HMDB01325
+648	N6-acetyllysine	Amino Acid	Lysine Metabolism	LC/MS Neg	100001734	1059	187.1088	692-04-6	92832	C02727	HMDB00206
+649	N6-carbamoylthreonyladenosine	Nucleotide	Purine Metabolism, Adenine containing	LC/MS Neg	100001415	2164	411.127	24719-82-2	161466		HMDB41623
+650	N6-carboxymethyllysine	Carbohydrate	Advanced Glycation End-product	LC/MS Pos Early	100001768	2500	205.1183	5746-04-03 00:00:00	123800		
+651	N6-succinyladenosine	Nucleotide	Purine Metabolism, Adenine containing	LC/MS Neg	100001664	940	382.1004	4542-23-8	165243		HMDB00912
+652	N-acetyl-2-aminooctanoate*	Lipid	Fatty Acid, Amino	LC/MS Neg	100020204	3943	200.1292		95555		HMDB59745
+653	N-acetylalanine	Amino Acid	Alanine and Aspartate Metabolism	LC/MS Polar	1110	1564.8	130.051	97-69-8	88064	C02847	HMDB00766
+654	N-acetylalliin	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100005367	1348	220.0638		.		
+655	N-acetylarginine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	100001266	2245	217.1295	155-84-0	67427	C02562	HMDB04620
+656	N-acetylaspartate (NAA)	Amino Acid	Alanine and Aspartate Metabolism	LC/MS Pos Early	100000787	880	176.0554	997-55-7;997-55-7	65065	C01042	HMDB00812
+657	N-acetyl-aspartyl-glutamate (NAAG)	Amino Acid	Glutamate Metabolism	LC/MS Pos Early	100001612	1035	305.098	3106-85-2	5255	C12270	HMDB01067
+658	N-acetyl-beta-alanine	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Neg	100002102	773	130.051	3025-95-4	76406	C01073	
+659	N-acetylcarnosine	Amino Acid	Histidine Metabolism	LC/MS Neg	100004046	1235	267.1099	56353-15-2	9903482		HMDB12881
+660	N-acetylcitrulline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Neg	100001577	940	216.099	33965-42-3	656979	C15532	HMDB00856
+661	N-acetylglucosamine/N-acetylgalactosamine	Carbohydrate	Aminosugar Metabolism	LC/MS Pos Early	100006435	715	222.0972		24139		HMDB00215
+662	N-acetylglutamate	Amino Acid	Glutamate Metabolism	LC/MS Polar	100000282	3106	188.0564	5817-08-03 00:00:00	70914	C00624	HMDB01138
+663	N-acetylglutamine	Amino Acid	Glutamate Metabolism	LC/MS Polar	100001253	2140	187.0724	2490-97-3	182230	C02716	HMDB06029
+664	N-acetylglycine	Amino Acid	Glycine, Serine and Threonine Metabolism	LC/MS Pos Early	100001006	826	118.0499	543-24-8	10972		HMDB00532
+665	N-acetylhistidine	Amino Acid	Histidine Metabolism	LC/MS Polar	100001293	2088	196.0728	39145-52-3	75619	C02997	HMDB32055
+666	N-acetylisoleucine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	100001276	2325	172.0979	3077-46-1	2802421		HMDB61684
+667	N-acetyl-isoputreanine*	Amino Acid	Polyamine Metabolism	LC/MS Pos Early	100020487	2305	203.139		.		
+668	N-acetylleucine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	1082	2400	172.0979	1188-21-2	70912	C02710	HMDB11756
+669	N-acetylmethionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Neg	1083	1787	190.0543	65-82-7	448580	C02712	HMDB11745
+670	N-acetylneuraminate	Carbohydrate	Aminosugar Metabolism	LC/MS Pos Early	1162	660	310.1133	131-48-6	439197	C00270	HMDB00230
+671	N-acetylphenylalanine	Amino Acid	Phenylalanine Metabolism	LC/MS Neg	100001256	2597	206.0823	2018-61-3	74839	C03519	HMDB00512
+672	N-acetylproline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	100001334	1695	158.0812	1074-79-9	322640		
+673	N-acetylputrescine	Amino Acid	Polyamine Metabolism	LC/MS Pos Early	192	2230	131.1179	18233-70-0	122356	C02714	HMDB02064
+674	N-acetylserine	Amino Acid	Glycine, Serine and Threonine Metabolism	LC/MS Polar	100001851	2000	146.0459	97-14-3	65249		HMDB02931
+675	N-acetyltaurine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Neg	100005466	800	166.018		159864		
+676	N-acetylthreonine	Amino Acid	Glycine, Serine and Threonine Metabolism	LC/MS Neg	100001274	821.6	160.0615	17093-74-2	152204		
+677	N-acetyltryptophan	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100001254	2630	245.0932	1218-34-4	700653	C03137	HMDB13713
+678	N-acetyltyrosine	Amino Acid	Tyrosine Metabolism	LC/MS Neg	100001104	1680	222.0772	537-55-3	68310		HMDB00866
+679	N-acetylvaline	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Neg	1084	1704	158.0823	96-81-1	66789		HMDB11757
+680	N-delta-acetylornithine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Neg	100004523	858	173.0932		9920500		
+681	N-formylanthranilic acid	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100004561	2150	164.0353	3342-77-6	101399	C05653	HMDB04089
+682	N-formylmethionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Neg	194	1543.8	176.0387	4289-98-9	439750	C03145	HMDB01015
+683	N-formylphenylalanine	Amino Acid	Tyrosine Metabolism	LC/MS Neg	100006056	2360	192.0666	13200-85-6	759256		
+684	nicotinamide	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	LC/MS Pos Early	432	1942	123.0553	98-92-0	936	C00153	HMDB01406
+685	N-linoleoyltaurine*	Lipid	Endocannabinoid	LC/MS Neg	100005814	5505	386.2371		.		
+686	N-methylproline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	100001956	1335	130.0863	475-11-6	557		
+687	N-oleoylserine	Lipid	Endocannabinoid	LC/MS Neg	100015641	5600	368.2806		.		
+688	N-oleoyltaurine	Lipid	Endocannabinoid	LC/MS Neg	100003119	5610	388.2527	52514-04-2	6437033		
+689	N-palmitoylglycine	Lipid	Fatty Acid Metabolism(Acyl Glycine)	LC/MS Neg	100003686	5580	312.2544	2441-41-0	151008		HMDB13034
+690	N-stearoyltaurine	Lipid	Endocannabinoid	LC/MS Neg	100003240	5782	390.2684	63155-80-6	168274		
+691	N-trimethyl 5-aminovalerate	Amino Acid	Lysine Metabolism	LC/MS Pos Early	100015962	2186	160.1332		.		
+692	o-cresol sulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100001806	2796	187.0071		11615528		
+693	octadecadienedioate (C18:2-DC)*	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100019982	4676	309.2071		.		
+694	octadecanedioate (C18-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100001615	5043	313.2384	871-70-5	70095		HMDB00782
+695	octadecanedioylcarnitine (C18-DC)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100005998	1227	458.3476	123233-50-1	.		
+696	octadecenedioate (C18:1-DC)*	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100019978	4875	311.2228		.		
+697	octadecenedioylcarnitine (C18:1-DC)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100005996	1180	456.332	251981-06-3	.		
+698	octanoylcarnitine (C8)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100001247	950	288.2169	3671-77-0	123701	C02838	HMDB00791
+699	oleoyl ethanolamide	Lipid	Endocannabinoid	LC/MS Neg	1137	6450	324.2908	11-58-0;111-58-0	5283454		HMDB02088
+700	oleoylcarnitine (C18:1)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100001501	1423	426.3578	38677-66-6	6441392		HMDB05065
+701	ornithine	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	444	2800	133.0972	3184-13-2	6262	C00077	HMDB03374
+702	orotate	Nucleotide	Pyrimidine Metabolism, Orotate containing	LC/MS Polar	445	1638.1	155.0098	50887-69-9	967	C00295	HMDB00226
+703	O-sulfo-L-tyrosine	Xenobiotics	Chemical	LC/MS Neg	100005384	990	260.0234		514186		
+704	oxalate (ethanedioate)	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	LC/MS Neg	100000841	603	88.988	144-62-7	971	C00209	HMDB02329
+705	oxaloacetate	Energy	TCA Cycle	LC/MS Neg	447	575	130.9986	328-42-7	970	C00036	HMDB00223
+706	palmitoleoylcarnitine (C16:1)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100009406	1357	398.3265		71464547		
+707	palmitoyl ethanolamide	Lipid	Endocannabinoid	LC/MS Neg	1489	6300	298.2752	544-31-0	4671	C16512	HMDB02100
+708	palmitoylcarnitine (C16)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100000776	1425	400.3421	6865-14-1	461	C02990	HMDB00222
+709	pantothenate	Cofactors and Vitamins	Pantothenate and CoA Metabolism	LC/MS Neg	1024	1498.7	218.1034	137-08-6	6613	C00864	HMDB00210
+710	paraxanthine	Xenobiotics	Xanthine Metabolism	LC/MS Neg	100000453	2279	179.0575	611-59-6	4687	C13747	HMDB01860
+711	PC(12:0/18:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010483	.	.		.		
+712	PC(12:0/18:2)	Phosphatidylcholine	PC Ester	DMS-MS	100009438	.	.		.		
+713	PC(14:0/14:0)	Phosphatidylcholine	PC Ester	DMS-MS	100009441	.	.		.		
+714	PC(14:0/16:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010299	.	.		.		
+715	PC(14:0/18:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010144	.	.		.		
+716	PC(14:0/18:2)	Phosphatidylcholine	PC Ester	DMS-MS	100010300	.	.		.		
+717	PC(14:0/18:3)	Phosphatidylcholine	PC Ester	DMS-MS	100009442	.	.		.		
+718	PC(14:0/20:2)	Phosphatidylcholine	PC Ester	DMS-MS	100009800	.	.		.		
+719	PC(14:0/20:3)	Phosphatidylcholine	PC Ester	DMS-MS	100009971	.	.		.		
+720	PC(14:0/20:4)	Phosphatidylcholine	PC Ester	DMS-MS	100010486	.	.		.		
+721	PC(14:0/20:5)	Phosphatidylcholine	PC Ester	DMS-MS	100010671	.	.		.		
+722	PC(14:0/22:4)	Phosphatidylcholine	PC Ester	DMS-MS	100010301	.	.		.		
+723	PC(14:0/22:5)	Phosphatidylcholine	PC Ester	DMS-MS	100010146	.	.		.		
+724	PC(14:0/22:6)	Phosphatidylcholine	PC Ester	DMS-MS	100010147	.	.		.		
+725	PC(15:0/16:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010673	.	.		.		
+726	PC(15:0/18:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010674	.	.		.		
+727	PC(15:0/18:2)	Phosphatidylcholine	PC Ester	DMS-MS	100010302	.	.		.		
+728	PC(15:0/20:3)	Phosphatidylcholine	PC Ester	DMS-MS	100010487	.	.		.		
+729	PC(15:0/20:4)	Phosphatidylcholine	PC Ester	DMS-MS	100009443	.	.		.		
+730	PC(15:0/20:5)	Phosphatidylcholine	PC Ester	DMS-MS	100010304	.	.		.		
+731	PC(15:0/22:5)	Phosphatidylcholine	PC Ester	DMS-MS	100010148	.	.		.		
+732	PC(15:0/22:6)	Phosphatidylcholine	PC Ester	DMS-MS	100009802	.	.		.		
+733	PC(16:0/12:0)	Phosphatidylcholine	PC Ester	DMS-MS	100010675	.	.		.		
+734	PC(16:0/14:0)	Phosphatidylcholine	PC Ester	DMS-MS	100009638	.	.		.		
+735	PC(16:0/14:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010488	.	.		.		
+736	PC(16:0/16:0)	Phosphatidylcholine	PC Ester	DMS-MS	100009803	.	.		.		
+737	PC(16:0/16:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009639	.	.		.		
+738	PC(16:0/18:0)	Phosphatidylcholine	PC Ester	DMS-MS	100010305	.	.		.		
+739	PC(16:0/18:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009804	.	.		.		
+740	PC(16:0/18:2)	Phosphatidylcholine	PC Ester	DMS-MS	100010489	.	.		.		
+741	PC(16:0/18:3)	Phosphatidylcholine	PC Ester	DMS-MS	100009973	.	.		.		
+742	PC(16:0/18:4)	Phosphatidylcholine	PC Ester	DMS-MS	100010149	.	.		.		
+743	PC(16:0/20:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009805	.	.		.		
+744	PC(16:0/20:2)	Phosphatidylcholine	PC Ester	DMS-MS	100010676	.	.		.		
+745	PC(16:0/20:3)	Phosphatidylcholine	PC Ester	DMS-MS	100009444	.	.		.		
+746	PC(16:0/20:4)	Phosphatidylcholine	PC Ester	DMS-MS	100010306	.	.		.		
+747	PC(16:0/20:5)	Phosphatidylcholine	PC Ester	DMS-MS	100010307	.	.		.		
+748	PC(16:0/22:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010308	.	.		.		
+749	PC(16:0/22:4)	Phosphatidylcholine	PC Ester	DMS-MS	100010309	.	.		.		
+750	PC(16:0/22:5)	Phosphatidylcholine	PC Ester	DMS-MS	100010677	.	.		.		
+751	PC(16:0/22:6)	Phosphatidylcholine	PC Ester	DMS-MS	100010151	.	.		.		
+752	PC(17:0/14:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010490	.	.		.		
+753	PC(17:0/16:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009806	.	.		.		
+754	PC(17:0/18:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010310	.	.		.		
+755	PC(17:0/18:2)	Phosphatidylcholine	PC Ester	DMS-MS	100010311	.	.		.		
+756	PC(17:0/18:3)	Phosphatidylcholine	PC Ester	DMS-MS	100009445	.	.		.		
+757	PC(17:0/20:3)	Phosphatidylcholine	PC Ester	DMS-MS	100010491	.	.		.		
+758	PC(17:0/20:4)	Phosphatidylcholine	PC Ester	DMS-MS	100009974	.	.		.		
+759	PC(17:0/20:5)	Phosphatidylcholine	PC Ester	DMS-MS	100009446	.	.		.		
+760	PC(17:0/22:4)	Phosphatidylcholine	PC Ester	DMS-MS	100009975	.	.		.		
+761	PC(17:0/22:5)	Phosphatidylcholine	PC Ester	DMS-MS	100010492	.	.		.		
+762	PC(17:0/22:6)	Phosphatidylcholine	PC Ester	DMS-MS	100009807	.	.		.		
+763	PC(18:0/12:0)	Phosphatidylcholine	PC Ester	DMS-MS	100009976	.	.		.		
+764	PC(18:0/14:0)	Phosphatidylcholine	PC Ester	DMS-MS	100010152	.	.		.		
+765	PC(18:0/16:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009978	.	.		.		
+766	PC(18:0/18:0)	Phosphatidylcholine	PC Ester	DMS-MS	100009808	.	.		.		
+767	PC(18:0/18:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010678	.	.		.		
+768	PC(18:0/18:2)	Phosphatidylcholine	PC Ester	DMS-MS	100010493	.	.		.		
+769	PC(18:0/18:3)	Phosphatidylcholine	PC Ester	DMS-MS	100010312	.	.		.		
+770	PC(18:0/18:4)	Phosphatidylcholine	PC Ester	DMS-MS	100010313	.	.		.		
+771	PC(18:0/20:0)	Phosphatidylcholine	PC Ester	DMS-MS	100010314	.	.		.		
+772	PC(18:0/20:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009447	.	.		.		
+773	PC(18:0/20:2)	Phosphatidylcholine	PC Ester	DMS-MS	100009448	.	.		.		
+774	PC(18:0/20:3)	Phosphatidylcholine	PC Ester	DMS-MS	100010679	.	.		.		
+775	PC(18:0/20:4)	Phosphatidylcholine	PC Ester	DMS-MS	100010315	.	.		.		
+776	PC(18:0/20:5)	Phosphatidylcholine	PC Ester	DMS-MS	100010316	.	.		.		
+777	PC(18:0/22:4)	Phosphatidylcholine	PC Ester	DMS-MS	100009979	.	.		.		
+778	PC(18:0/22:5)	Phosphatidylcholine	PC Ester	DMS-MS	100009810	.	.		.		
+779	PC(18:0/22:6)	Phosphatidylcholine	PC Ester	DMS-MS	100010318	.	.		.		
+780	PC(18:1/16:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010494	.	.		.		
+781	PC(18:1/18:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009980	.	.		.		
+782	PC(18:1/18:2)	Phosphatidylcholine	PC Ester	DMS-MS	100009981	.	.		.		
+783	PC(18:1/18:3)	Phosphatidylcholine	PC Ester	DMS-MS	100010495	.	.		.		
+784	PC(18:1/20:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009641	.	.		.		
+785	PC(18:1/20:2)	Phosphatidylcholine	PC Ester	DMS-MS	100010319	.	.		.		
+786	PC(18:1/20:3)	Phosphatidylcholine	PC Ester	DMS-MS	100010680	.	.		.		
+787	PC(18:1/20:4)	Phosphatidylcholine	PC Ester	DMS-MS	100010320	.	.		.		
+788	PC(18:1/20:5)	Phosphatidylcholine	PC Ester	DMS-MS	100009642	.	.		.		
+789	PC(18:1/22:4)	Phosphatidylcholine	PC Ester	DMS-MS	100009982	.	.		.		
+790	PC(18:1/22:5)	Phosphatidylcholine	PC Ester	DMS-MS	100009811	.	.		.		
+791	PC(18:1/22:6)	Phosphatidylcholine	PC Ester	DMS-MS	100009644	.	.		.		
+792	PC(18:2/16:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010321	.	.		.		
+793	PC(18:2/18:2)	Phosphatidylcholine	PC Ester	DMS-MS	100009452	.	.		.		
+794	PC(18:2/18:3)	Phosphatidylcholine	PC Ester	DMS-MS	100009983	.	.		.		
+795	PC(18:2/20:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009453	.	.		.		
+796	PC(18:2/20:2)	Phosphatidylcholine	PC Ester	DMS-MS	100009984	.	.		.		
+797	PC(18:2/20:3)	Phosphatidylcholine	PC Ester	DMS-MS	100009645	.	.		.		
+798	PC(18:2/20:4)	Phosphatidylcholine	PC Ester	DMS-MS	100010681	.	.		.		
+799	PC(18:2/20:5)	Phosphatidylcholine	PC Ester	DMS-MS	100009813	.	.		.		
+800	PC(18:2/22:4)	Phosphatidylcholine	PC Ester	DMS-MS	100010683	.	.		.		
+801	PC(18:2/22:5)	Phosphatidylcholine	PC Ester	DMS-MS	100009646	.	.		.		
+802	PC(18:2/22:6)	Phosphatidylcholine	PC Ester	DMS-MS	100010497	.	.		.		
+803	PC(20:0/14:1)	Phosphatidylcholine	PC Ester	DMS-MS	100010498	.	.		.		
+804	PC(20:0/16:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009985	.	.		.		
+805	PC(20:0/18:1)	Phosphatidylcholine	PC Ester	DMS-MS	100009454	.	.		.		
+806	PC(20:0/18:2)	Phosphatidylcholine	PC Ester	DMS-MS	100009455	.	.		.		
+807	PC(20:0/18:3)	Phosphatidylcholine	PC Ester	DMS-MS	100010684	.	.		.		
+808	PC(20:0/20:2)	Phosphatidylcholine	PC Ester	DMS-MS	100010322	.	.		.		
+809	PC(20:0/20:3)	Phosphatidylcholine	PC Ester	DMS-MS	100010323	.	.		.		
+810	PC(20:0/20:4)	Phosphatidylcholine	PC Ester	DMS-MS	100009456	.	.		.		
+811	PC(20:0/20:5)	Phosphatidylcholine	PC Ester	DMS-MS	100010324	.	.		.		
+812	PC(20:0/22:5)	Phosphatidylcholine	PC Ester	DMS-MS	100010326	.	.		.		
+813	PC(20:0/22:6)	Phosphatidylcholine	PC Ester	DMS-MS	100010499	.	.		.		
+814	p-cresol sulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100001315	2890	187.0071	3233-57-7	4615423		HMDB11635
+815	p-cresol-glucuronide*	Amino Acid	Tyrosine Metabolism	LC/MS Neg	100006191	2420	283.0823	17680-99-8	154035		HMDB11686
+816	PE(14:0/18:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010686	.	.		.		
+817	PE(16:0/14:0)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009992	.	.		.		
+818	PE(16:0/16:0)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010154	.	.		.		
+819	PE(16:0/16:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009820	.	.		.		
+820	PE(16:0/18:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010155	.	.		.		
+821	PE(16:0/18:2)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009650	.	.		.		
+822	PE(16:0/18:3)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010331	.	.		.		
+823	PE(16:0/20:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010333	.	.		.		
+824	PE(16:0/20:2)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009463	.	.		.		
+825	PE(16:0/20:3)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010691	.	.		.		
+826	PE(16:0/20:4)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010692	.	.		.		
+827	PE(16:0/20:5)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010156	.	.		.		
+828	PE(16:0/22:4)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010506	.	.		.		
+829	PE(16:0/22:5)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010507	.	.		.		
+830	PE(16:0/22:6)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009993	.	.		.		
+831	PE(17:0/18:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009465	.	.		.		
+832	PE(17:0/18:2)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010157	.	.		.		
+833	PE(17:0/20:2)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010693	.	.		.		
+834	PE(17:0/20:4)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009651	.	.		.		
+835	PE(17:0/22:4)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010158	.	.		.		
+836	PE(17:0/22:5)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009653	.	.		.		
+837	PE(17:0/22:6)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010337	.	.		.		
+838	PE(18:0/16:0)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009655	.	.		.		
+839	PE(18:0/16:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010339	.	.		.		
+840	PE(18:0/18:0)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010695	.	.		.		
+841	PE(18:0/18:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010696	.	.		.		
+842	PE(18:0/18:2)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010159	.	.		.		
+843	PE(18:0/18:3)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009995	.	.		.		
+844	PE(18:0/20:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010511	.	.		.		
+845	PE(18:0/20:2)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010160	.	.		.		
+846	PE(18:0/20:3)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010697	.	.		.		
+847	PE(18:0/20:4)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010161	.	.		.		
+848	PE(18:0/20:5)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010340	.	.		.		
+849	PE(18:0/22:4)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009822	.	.		.		
+850	PE(18:0/22:5)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009467	.	.		.		
+851	PE(18:0/22:6)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010341	.	.		.		
+852	PE(18:1/14:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009468	.	.		.		
+853	PE(18:1/16:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010698	.	.		.		
+854	PE(18:1/18:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009469	.	.		.		
+855	PE(18:1/18:2)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010699	.	.		.		
+856	PE(18:1/18:3)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010342	.	.		.		
+857	PE(18:1/20:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009470	.	.		.		
+858	PE(18:1/20:2)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010700	.	.		.		
+859	PE(18:1/20:3)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010343	.	.		.		
+860	PE(18:1/20:4)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010512	.	.		.		
+861	PE(18:1/20:5)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009823	.	.		.		
+862	PE(18:1/22:0)	Phosphatidylethanolamine	PE Ester	DMS-MS	100013437	.	.		.		
+863	PE(18:1/22:4)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009471	.	.		.		
+864	PE(18:1/22:5)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009472	.	.		.		
+865	PE(18:1/22:6)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009657	.	.		.		
+866	PE(18:2/14:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010164	.	.		.		
+867	PE(18:2/16:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009658	.	.		.		
+868	PE(18:2/18:2)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009473	.	.		.		
+869	PE(18:2/18:3)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010702	.	.		.		
+870	PE(18:2/20:1)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010344	.	.		.		
+871	PE(18:2/20:2)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010345	.	.		.		
+872	PE(18:2/20:3)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010165	.	.		.		
+873	PE(18:2/20:4)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010703	.	.		.		
+874	PE(18:2/20:5)	Phosphatidylethanolamine	PE Ester	DMS-MS	100010346	.	.		.		
+875	PE(18:2/22:4)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009475	.	.		.		
+876	PE(18:2/22:5)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009996	.	.		.		
+877	PE(18:2/22:6)	Phosphatidylethanolamine	PE Ester	DMS-MS	100009825	.	.		.		
+878	PE(O-16:0/16:0)	Phosphatidylethanolamine	PE Ether	DMS-MS	100009997	.	.		.		
+879	PE(O-16:0/18:1)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010514	.	.		.		
+880	PE(O-16:0/18:2)	Phosphatidylethanolamine	PE Ether	DMS-MS	100009998	.	.		.		
+881	PE(O-16:0/18:3)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010166	.	.		.		
+882	PE(O-16:0/20:3)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010348	.	.		.		
+883	PE(O-16:0/20:4)	Phosphatidylethanolamine	PE Ether	DMS-MS	100009477	.	.		.		
+884	PE(O-16:0/20:5)	Phosphatidylethanolamine	PE Ether	DMS-MS	100009478	.	.		.		
+885	PE(O-16:0/22:4)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010000	.	.		.		
+886	PE(O-16:0/22:5)	Phosphatidylethanolamine	PE Ether	DMS-MS	100009479	.	.		.		
+887	PE(O-16:0/22:6)	Phosphatidylethanolamine	PE Ether	DMS-MS	100009480	.	.		.		
+888	PE(O-18:0/16:0)	Phosphatidylethanolamine	PE Ether	DMS-MS	100009481	.	.		.		
+889	PE(O-18:0/18:0)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010001	.	.		.		
+890	PE(O-18:0/18:1)	Phosphatidylethanolamine	PE Ether	DMS-MS	100009661	.	.		.		
+891	PE(O-18:0/18:2)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010516	.	.		.		
+892	PE(O-18:0/18:3)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010517	.	.		.		
+893	PE(O-18:0/20:3)	Phosphatidylethanolamine	PE Ether	DMS-MS	100009483	.	.		.		
+894	PE(O-18:0/20:4)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010351	.	.		.		
+895	PE(O-18:0/20:5)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010352	.	.		.		
+896	PE(O-18:0/22:4)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010167	.	.		.		
+897	PE(O-18:0/22:5)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010518	.	.		.		
+898	PE(O-18:0/22:6)	Phosphatidylethanolamine	PE Ether	DMS-MS	100010519	.	.		.		
+899	PE(P-14:0/18:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010520	.	.		.		
+900	PE(P-16:0/16:0)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010521	.	.		.		
+901	PE(P-16:0/16:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010522	.	.		.		
+902	PE(P-16:0/18:0)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010523	.	.		.		
+903	PE(P-16:0/18:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009484	.	.		.		
+904	PE(P-16:0/18:2)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010709	.	.		.		
+905	PE(P-16:0/18:3)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010002	.	.		.		
+906	PE(P-16:0/20:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009668	.	.		.		
+907	PE(P-16:0/20:2)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010524	.	.		.		
+908	PE(P-16:0/20:3)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010003	.	.		.		
+909	PE(P-16:0/20:4)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010168	.	.		.		
+910	PE(P-16:0/20:5)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010710	.	.		.		
+911	PE(P-16:0/22:4)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010354	.	.		.		
+912	PE(P-16:0/22:5)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009669	.	.		.		
+913	PE(P-16:0/22:6)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009827	.	.		.		
+914	PE(P-16:1/18:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010355	.	.		.		
+915	PE(P-18:0/16:0)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009485	.	.		.		
+916	PE(P-18:0/16:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010005	.	.		.		
+917	PE(P-18:0/18:0)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009670	.	.		.		
+918	PE(P-18:0/18:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009486	.	.		.		
+919	PE(P-18:0/18:2)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010525	.	.		.		
+920	PE(P-18:0/18:3)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009671	.	.		.		
+921	PE(P-18:0/20:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009487	.	.		.		
+922	PE(P-18:0/20:2)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009488	.	.		.		
+923	PE(P-18:0/20:3)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010712	.	.		.		
+924	PE(P-18:0/20:4)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009672	.	.		.		
+925	PE(P-18:0/20:5)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010356	.	.		.		
+926	PE(P-18:0/22:4)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009828	.	.		.		
+927	PE(P-18:0/22:5)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009829	.	.		.		
+928	PE(P-18:0/22:6)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010357	.	.		.		
+929	PE(P-18:1/16:0)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010713	.	.		.		
+930	PE(P-18:1/16:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009489	.	.		.		
+931	PE(P-18:1/18:0)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010714	.	.		.		
+932	PE(P-18:1/18:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010358	.	.		.		
+933	PE(P-18:1/18:2)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010359	.	.		.		
+934	PE(P-18:1/18:3)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010527	.	.		.		
+935	PE(P-18:1/20:1)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010360	.	.		.		
+936	PE(P-18:1/20:2)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009490	.	.		.		
+937	PE(P-18:1/20:3)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009830	.	.		.		
+938	PE(P-18:1/20:4)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010007	.	.		.		
+939	PE(P-18:1/20:5)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010528	.	.		.		
+940	PE(P-18:1/22:4)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010715	.	.		.		
+941	PE(P-18:1/22:5)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100009491	.	.		.		
+942	PE(P-18:1/22:6)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010170	.	.		.		
+943	PE(P-18:2/18:2)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010362	.	.		.		
+944	PE(P-18:2/20:4)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010363	.	.		.		
+945	PE(P-18:2/22:6)	Phosphatidylethanolamine	PE Plasmalogen	DMS-MS	100010171	.	.		.		
+946	perfluorooctanesulfonic acid (PFOS)	Xenobiotics	Chemical	LC/MS Neg	100010955	5233	498.9302	1763-23-1	74483	C18142	HMDB59586
+947	perfluorooctanoate (PFOA)*	Xenobiotics	Chemical	LC/MS Neg	100020208	5130	412.9664		9554		HMDB59587
+948	phenol sulfate	Amino Acid	Tyrosine Metabolism	LC/MS Neg	100001510	2156	172.9914	937-34-8	74426	C02180	HMDB60015
+949	phenylacetate	Amino Acid	Phenylalanine Metabolism	LC/MS Neg	100000011	2150	91.0554	103-82-2	999	C07086	HMDB00209
+950	phenylacetylcarnitine	Peptide	Acetylated Peptides	LC/MS Pos Early	100006108	3092	280.1543	287108-21-8	101724840		
+951	phenylacetylglutamine	Peptide	Acetylated Peptides	LC/MS Pos Early	100001417	2145	265.1183	28047-15-6	92258	C04148	HMDB06344
+952	phenylalanine	Amino Acid	Phenylalanine Metabolism	LC/MS Pos Early	460	2878	166.0863	63-91-2	6140	C00079	HMDB00159
+953	phenylalanyltryptophan	Peptide	Dipeptide	LC/MS Neg	100003594	4165	350.151	24587-41-5	134906		HMDB29006
+954	phenyllactate (PLA)	Amino Acid	Phenylalanine Metabolism	LC/MS Neg	100000774	2208	165.0557	828-01-3	3848	C05607	HMDB00779
+955	phenylpyruvate	Amino Acid	Phenylalanine Metabolism	LC/MS Neg	241	2515	163.0401	156-06-9	997	C00166	HMDB00205
+956	phosphate	Energy	Oxidative Phosphorylation	LC/MS Pos Early	461	576	98.9842	7664-38-2	1061	C00009	HMDB01429
+957	choline phosphate	Lipid	Phospholipid Metabolism	LC/MS Pos Early	267	700	184.0733	72556-74-2	1014	C00588	HMDB01565
+958	phosphoethanolamine	Lipid	Phospholipid Metabolism	LC/MS Pos Early	1026	700	142.0264	1071-23-4	1015	C00346	HMDB00224
+959	phytanate	Xenobiotics	Food Component/Plant	LC/MS Neg	466	5908	311.2956	14721-66-5	26840	C01607	HMDB00801
+960	PI(16:0/16:0)	Phosphatidylinositol	PI Ester	DMS-MS	100010716	.	.		.		
+961	PI(16:0/16:1)	Phosphatidylinositol	PI Ester	DMS-MS	100010529	.	.		.		
+962	PI(16:0/18:1)	Phosphatidylinositol	PI Ester	DMS-MS	100009492	.	.		.		
+963	PI(16:0/18:2)	Phosphatidylinositol	PI Ester	DMS-MS	100010530	.	.		.		
+964	PI(16:0/18:3)	Phosphatidylinositol	PI Ester	DMS-MS	100010364	.	.		.		
+965	PI(16:0/20:3)	Phosphatidylinositol	PI Ester	DMS-MS	100010008	.	.		.		
+966	PI(16:0/20:4)	Phosphatidylinositol	PI Ester	DMS-MS	100010009	.	.		.		
+967	PI(16:0/22:4)	Phosphatidylinositol	PI Ester	DMS-MS	100010531	.	.		.		
+968	PI(16:0/22:5)	Phosphatidylinositol	PI Ester	DMS-MS	100009675	.	.		.		
+969	PI(16:0/22:6)	Phosphatidylinositol	PI Ester	DMS-MS	100010365	.	.		.		
+970	PI(18:0/16:0)	Phosphatidylinositol	PI Ester	DMS-MS	100009493	.	.		.		
+971	PI(18:0/16:1)	Phosphatidylinositol	PI Ester	DMS-MS	100010717	.	.		.		
+972	PI(18:0/18:1)	Phosphatidylinositol	PI Ester	DMS-MS	100009832	.	.		.		
+973	PI(18:0/18:2)	Phosphatidylinositol	PI Ester	DMS-MS	100010366	.	.		.		
+974	PI(18:0/18:3)	Phosphatidylinositol	PI Ester	DMS-MS	100010172	.	.		.		
+975	PI(18:0/20:2)	Phosphatidylinositol	PI Ester	DMS-MS	100009676	.	.		.		
+976	PI(18:0/20:3)	Phosphatidylinositol	PI Ester	DMS-MS	100010173	.	.		.		
+977	PI(18:0/20:4)	Phosphatidylinositol	PI Ester	DMS-MS	100010174	.	.		.		
+978	PI(18:0/20:5)	Phosphatidylinositol	PI Ester	DMS-MS	100009677	.	.		.		
+979	PI(18:0/22:4)	Phosphatidylinositol	PI Ester	DMS-MS	100009833	.	.		.		
+980	PI(18:0/22:5)	Phosphatidylinositol	PI Ester	DMS-MS	100010532	.	.		.		
+981	PI(18:0/22:6)	Phosphatidylinositol	PI Ester	DMS-MS	100010367	.	.		.		
+982	PI(18:1/16:1)	Phosphatidylinositol	PI Ester	DMS-MS	100010368	.	.		.		
+983	PI(18:1/18:1)	Phosphatidylinositol	PI Ester	DMS-MS	100009494	.	.		.		
+984	PI(18:1/18:2)	Phosphatidylinositol	PI Ester	DMS-MS	100009678	.	.		.		
+985	PI(18:1/20:3)	Phosphatidylinositol	PI Ester	DMS-MS	100010175	.	.		.		
+986	PI(18:1/20:4)	Phosphatidylinositol	PI Ester	DMS-MS	100010369	.	.		.		
+987	PI(18:2/18:2)	Phosphatidylinositol	PI Ester	DMS-MS	100009834	.	.		.		
+988	picolinate	Amino Acid	Tryptophan Metabolism	LC/MS Pos Early	1022	910	124.0393	98-98-6	1018	C10164	HMDB02243
+989	pipecolate	Amino Acid	Lysine Metabolism	LC/MS Pos Early	1025	2200	130.0863	4043-87-2	849	C00408	HMDB00070
+990	piperine	Xenobiotics	Food Component/Plant	LC/MS Pos Late	100001267	1168	286.1438	94-62-2	638024	C03882	HMDB29377
+991	pivaloylcarnitine (C5)	Xenobiotics	Drug - Topical Agents	LC/MS Pos Early	100001589	3005	246.17	98299-38-8	126894		HMDB41993
+992	pregnenediol disulfate (C21H34O8S2)*	Lipid	Pregnenolone Steroids	LC/MS Neg	100001993	3868	238.0775		.		
+993	pregnenediol sulfate (C21H34O5S)*	Lipid	Pregnenolone Steroids	LC/MS Neg	100002067	5000	397.2054	1247-64-9	.		
+994	pregnenolone sulfate	Lipid	Pregnenolone Steroids	LC/MS Neg	100002129	5100	395.1898	1247-64-9	105074		HMDB00774
+995	proline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	480	1603	116.0706	147-85-3	145742	C00148	HMDB00162
+996	prolylglycine	Peptide	Dipeptide	LC/MS Pos Early	100003674	2136	173.0921	2578-57-6	6426709		HMDB11178
+997	pro-hydroxy-pro	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	100001167	2128	229.1183	18684-24-7	11673055		HMDB06695
+998	prolylserine	Peptide	Dipeptide	LC/MS Pos Early	100003679	2036	203.1026	71835-80-8	7408258		HMDB29026
+999	propionylcarnitine (C3)	Lipid	Fatty Acid Metabolism (also BCAA Metabolism)	LC/MS Pos Early	100001162	2590	218.1387	17298-37-2	107738	C03017	HMDB00824
+1000	propionylglycine	Lipid	Fatty Acid Metabolism (also BCAA Metabolism)	LC/MS Neg	100001150	960	130.051	21709-90-0	98681		HMDB00783
+1001	propyl 4-hydroxybenzoate sulfate	Xenobiotics	Benzoate Metabolism	LC/MS Neg	100006264	3971	259.0282	162338-10-5	.		
+1002	pseudouridine	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Neg	821	1100	243.0623	1445-07-4	15047	C02067	HMDB00767
+1003	pyridoxal	Cofactors and Vitamins	Vitamin B6 Metabolism	LC/MS Pos Early	491	2343	168.0655	65-22-5	1050	C00250	HMDB01545
+1004	pyridoxate	Cofactors and Vitamins	Vitamin B6 Metabolism	LC/MS Neg	100001121	2185	182.0459	82-82-6	6723	C00847	HMDB00017
+1005	pyroglutamine*	Amino Acid	Glutamate Metabolism	LC/MS Pos Early	100001540	1900	129.0659	2353-44-8	134508		
+1006	pyroglutamylglutamine	Peptide	Modified Peptides	LC/MS Neg	100000966	855	256.0939	109481-23-4	14889607		HMDB39229
+1007	pyrraline	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100001767	2750	255.1339	74509-14-1	122228		HMDB33143
+1008	pyruvate	Carbohydrate	Glycolysis, Gluconeogenesis, and Pyruvate Metabolism	LC/MS Polar	823	1083	87.0088	127-17-3	1060	C00022	HMDB00243
+1009	quinate	Xenobiotics	Food Component/Plant	LC/MS Polar	100000442	2432.9	191.0561	77-95-2	6508	C00296	HMDB03072
+1010	quinolinate	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	LC/MS Pos Early	182	845	168.0291	89-00-9	1066	C03722	HMDB00232
+1011	ranitidine	Xenobiotics	Drug - Gastrointestinal	LC/MS Pos Early	100002735	2910	315.1485	66357-59-3	3001055	D00422	HMDB01930
+1012	retinol (Vitamin A)	Cofactors and Vitamins	Vitamin A Metabolism	LC/MS Pos Late	498	1636	269.2264	68-26-8	445354	C00473	HMDB00305
+1013	ribitol	Carbohydrate	Pentose Metabolism	LC/MS Polar	100000406	1789.6	151.0612	488-81-3	6912	C00474	HMDB00508
+1014	ribonate	Carbohydrate	Pentose Metabolism	LC/MS Polar	100001007	2425	165.0405	5336-08-03 00:00:00	5460677	C01685	HMDB00867
+1015	ribulonate/xylulonate*	Carbohydrate	Pentose Metabolism	LC/MS Polar	100019968	2350	165.0405		.		
+1016	S-1-pyrroline-5-carboxylate	Amino Acid	Glutamate Metabolism	LC/MS Pos Early	35	1528	114.055	2906-39-0	1196	C04322	HMDB01301
+1017	saccharin	Xenobiotics	Food Component/Plant	LC/MS Neg	100000870	2000	181.9917	81-07-2	5143	D01085	HMDB29723
+1018	S-adenosylhomocysteine (SAH)	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Neg	197	1832.4	383.1143	979-92-0	439155	C00021	HMDB00939
+1019	salicylate	Xenobiotics	Drug - Topical Agents	LC/MS Polar	501	802	137.0242	69-72-7	338	C00805	HMDB01895
+1020	salicyluric glucuronide*	Xenobiotics	Drug - Analgesics, Anesthetics	LC/MS Neg	100001332	1463	370.078		.		
+1021	S-allylcysteine	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100004509	2690	162.0583	21593-77-1	98280		HMDB34323
+1022	sarcosine	Amino Acid	Glycine, Serine and Threonine Metabolism	LC/MS Pos Early	1023	1280	90.055	107-97-1	1088	C00213	HMDB00271
+1023	sebacate (C10-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100001211	1788	201.1132	111-20-6	5192	C08277	HMDB00792
+1024	serine	Amino Acid	Glycine, Serine and Threonine Metabolism	LC/MS Pos Early	503	1239	106.0499	56-45-1	5951	C00065	HMDB00187
+1025	serotonin	Amino Acid	Tryptophan Metabolism	LC/MS Pos Early	504	2550	177.1022	153-98-0	5202	C00780	HMDB00259
+1026	SM(14:0)	Sphingolipids	Sphingomyelin	DMS-MS	100010370	.	.		.		
+1027	SM(16:0)	Sphingolipids	Sphingomyelin	DMS-MS	100010533	.	.		.		
+1028	SM(18:0)	Sphingolipids	Sphingomyelin	DMS-MS	100010534	.	.		.		
+1029	SM(18:1)	Sphingolipids	Sphingomyelin	DMS-MS	100010010	.	.		.		
+1030	SM(20:0)	Sphingolipids	Sphingomyelin	DMS-MS	100009835	.	.		.		
+1031	SM(20:1)	Sphingolipids	Sphingomyelin	DMS-MS	100009679	.	.		.		
+1032	SM(22:0)	Sphingolipids	Sphingomyelin	DMS-MS	100009495	.	.		.		
+1033	SM(22:1)	Sphingolipids	Sphingomyelin	DMS-MS	100010718	.	.		.		
+1034	SM(24:0)	Sphingolipids	Sphingomyelin	DMS-MS	100010011	.	.		.		
+1035	SM(24:1)	Sphingolipids	Sphingomyelin	DMS-MS	100010176	.	.		.		
+1036	SM(26:0)	Sphingolipids	Sphingomyelin	DMS-MS	100010535	.	.		.		
+1037	SM(26:1)	Sphingolipids	Sphingomyelin	DMS-MS	100009496	.	.		.		
+1038	S-methylcysteine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Neg	100002749	880	134.0281	1187-84-4	24417		HMDB02108
+1039	S-methylcysteine sulfoxide	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	100002927	900	152.0376	6853-87-8	82142		HMDB29432
+1040	S-methylmethionine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	100002183	2555	164.074	3493-12-07 00:00:00	458	C05319	HMDB38670
+1041	solanidine	Xenobiotics	Food Component/Plant	LC/MS Pos Late	100002773	1010	398.3418	80-78-4	65727	C06543	HMDB03236
+1042	spermidine	Amino Acid	Polyamine Metabolism	LC/MS Pos Early	50	3355	146.1652	124-20-9	1102	C00315	HMDB01257
+1043	sphingadienine	Lipid	Sphingolipid Metabolism	LC/MS Pos Late	100015643	1350	298.2741	25696-03-1	6449795		
+1044	sphinganine	Lipid	Sphingolipid Metabolism	LC/MS Pos Late	313	1413	302.3054	3102-56-5	3126	C00836	HMDB00269
+1045	sphinganine-1-phosphate	Lipid	Sphingolipid Metabolism	LC/MS Pos Late	100001876	1431	382.2717	19794-97-9	520		HMDB01383
+1046	sphingosine	Lipid	Sphingolipid Metabolism	LC/MS Pos Late	297	1393	300.2897	123-78-4	5353955	C00319	HMDB00252
+1047	sphingosine 1-phosphate	Lipid	Sphingolipid Metabolism	LC/MS Pos Late	100000626	1375	380.256	26993-30-6	5283560	C06124	HMDB00277
+1048	stachydrine	Xenobiotics	Food Component/Plant	LC/MS Pos Early	100001296	1440	144.1019	4136-37-2	115244	C10172	HMDB04827
+1049	stearoylcarnitine (C18)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100001391	1485	428.3734	18822-91-8	6426855		HMDB00848
+1050	suberate (C8-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100000016	804.3	173.0819	505-48-6	10457	C08278	HMDB00893
+1051	suberoylcarnitine (C8-DC)	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Early	100006627	2964	318.1911		.		
+1052	succinate	Energy	TCA Cycle	LC/MS Neg	252	603	117.0193	110-15-6	1110	C00042	HMDB00254
+1053	succinylcarnitine (C4-DC)	Energy	TCA Cycle	LC/MS Pos Early	100001948	2291	262.1285	256928-74-2	71464481		HMDB61717
+1054	sucrose	Carbohydrate	Disaccharides and Oligosaccharides	LC/MS Neg	935	865	341.1089	57-50-1	5988	C00089	HMDB00258
+1055	sulfate of piperine metabolite C16H19NO3 (2)*	Xenobiotics	Food Component/Plant	LC/MS Neg	100020496	4112	352.086		.		
+1056	sulfate of piperine metabolite C16H19NO3 (3)*	Xenobiotics	Food Component/Plant	LC/MS Neg	100020497	4200	352.086		.		
+1057	sulfate*	Xenobiotics	Chemical	LC/MS Neg	100002528	616	96.9601	14808-79-8	1118	C00059	HMDB01448
+1058	TAG36:0-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100010536	.	.		.		
+1059	TAG38:0-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100009680	.	.		.		
+1060	TAG40:0-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100009836	.	.		.		
+1061	TAG40:0-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009497	.	.		.		
+1062	TAG40:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009837	.	.		.		
+1063	TAG42:0-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100009681	.	.		.		
+1064	TAG42:0-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010177	.	.		.		
+1065	TAG42:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009838	.	.		.		
+1066	TAG42:1-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100010178	.	.		.		
+1067	TAG42:1-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009498	.	.		.		
+1068	TAG42:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009499	.	.		.		
+1069	TAG42:1-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009839	.	.		.		
+1070	TAG42:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010371	.	.		.		
+1071	TAG42:2-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100009840	.	.		.		
+1072	TAG42:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009500	.	.		.		
+1073	TAG44:0-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100009841	.	.		.		
+1074	TAG44:0-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010537	.	.		.		
+1075	TAG44:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010179	.	.		.		
+1076	TAG44:0-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009682	.	.		.		
+1077	TAG44:1-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100010538	.	.		.		
+1078	TAG44:1-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009842	.	.		.		
+1079	TAG44:1-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100010180	.	.		.		
+1080	TAG44:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010012	.	.		.		
+1081	TAG44:1-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010719	.	.		.		
+1082	TAG44:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009843	.	.		.		
+1083	TAG44:2-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100009683	.	.		.		
+1084	TAG44:2-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010372	.	.		.		
+1085	TAG44:2-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009501	.	.		.		
+1086	TAG44:2-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010181	.	.		.		
+1087	TAG44:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010373	.	.		.		
+1088	TAG44:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010374	.	.		.		
+1089	TAG44:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010539	.	.		.		
+1090	TAG45:0-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010540	.	.		.		
+1091	TAG45:0-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100010013	.	.		.		
+1092	TAG45:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010720	.	.		.		
+1093	TAG45:1-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100009684	.	.		.		
+1094	TAG45:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010721	.	.		.		
+1095	TAG45:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009685	.	.		.		
+1096	TAG46:0-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100009686	.	.		.		
+1097	TAG46:0-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010541	.	.		.		
+1098	TAG46:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009502	.	.		.		
+1099	TAG46:0-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009687	.	.		.		
+1100	TAG46:1-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100010014	.	.		.		
+1101	TAG46:1-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009844	.	.		.		
+1102	TAG46:1-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100010375	.	.		.		
+1103	TAG46:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009503	.	.		.		
+1104	TAG46:1-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009688	.	.		.		
+1105	TAG46:1-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010182	.	.		.		
+1106	TAG46:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010542	.	.		.		
+1107	TAG46:2-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100010183	.	.		.		
+1108	TAG46:2-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010184	.	.		.		
+1109	TAG46:2-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100010722	.	.		.		
+1110	TAG46:2-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009504	.	.		.		
+1111	TAG46:2-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010015	.	.		.		
+1112	TAG46:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010185	.	.		.		
+1113	TAG46:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010016	.	.		.		
+1114	TAG46:3-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100010186	.	.		.		
+1115	TAG46:3-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010543	.	.		.		
+1116	TAG46:3-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100009505	.	.		.		
+1117	TAG46:3-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010544	.	.		.		
+1118	TAG46:3-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010545	.	.		.		
+1119	TAG46:3-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010723	.	.		.		
+1120	TAG46:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010724	.	.		.		
+1121	TAG46:3-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010187	.	.		.		
+1122	TAG46:4-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010017	.	.		.		
+1123	TAG47:0-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010376	.	.		.		
+1124	TAG47:0-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100010377	.	.		.		
+1125	TAG47:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009845	.	.		.		
+1126	TAG47:0-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100010018	.	.		.		
+1127	TAG47:1-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010019	.	.		.		
+1128	TAG47:1-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100009506	.	.		.		
+1129	TAG47:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010546	.	.		.		
+1130	TAG47:1-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010725	.	.		.		
+1131	TAG47:1-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100010020	.	.		.		
+1132	TAG47:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010726	.	.		.		
+1133	TAG47:2-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009689	.	.		.		
+1134	TAG47:2-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100010378	.	.		.		
+1135	TAG47:2-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010727	.	.		.		
+1136	TAG47:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009846	.	.		.		
+1137	TAG47:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010728	.	.		.		
+1138	TAG48:0-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010547	.	.		.		
+1139	TAG48:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010729	.	.		.		
+1140	TAG48:0-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010548	.	.		.		
+1141	TAG48:1-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100009690	.	.		.		
+1142	TAG48:1-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010188	.	.		.		
+1143	TAG48:1-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100010379	.	.		.		
+1144	TAG48:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009507	.	.		.		
+1145	TAG48:1-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009691	.	.		.		
+1146	TAG48:1-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009847	.	.		.		
+1147	TAG48:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010549	.	.		.		
+1148	TAG48:2-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100010730	.	.		.		
+1149	TAG48:2-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010731	.	.		.		
+1150	TAG48:2-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100009848	.	.		.		
+1151	TAG48:2-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009508	.	.		.		
+1152	TAG48:2-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010550	.	.		.		
+1153	TAG48:2-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009849	.	.		.		
+1154	TAG48:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010732	.	.		.		
+1155	TAG48:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010189	.	.		.		
+1156	TAG48:3-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100009518	.	.		.		
+1157	TAG48:3-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009699	.	.		.		
+1158	TAG48:3-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100010031	.	.		.		
+1159	TAG48:3-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010032	.	.		.		
+1160	TAG48:3-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010556	.	.		.		
+1161	TAG48:3-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010733	.	.		.		
+1162	TAG48:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010380	.	.		.		
+1163	TAG48:3-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009692	.	.		.		
+1164	TAG48:4-FA12:0	Triacylglycerol	TAG Ester	DMS-MS	100009850	.	.		.		
+1165	TAG48:4-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009509	.	.		.		
+1166	TAG48:4-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100010551	.	.		.		
+1167	TAG48:4-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009510	.	.		.		
+1168	TAG48:4-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010021	.	.		.		
+1169	TAG48:4-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010552	.	.		.		
+1170	TAG48:4-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010190	.	.		.		
+1171	TAG48:4-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009851	.	.		.		
+1172	TAG48:4-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010022	.	.		.		
+1173	TAG48:5-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010191	.	.		.		
+1174	TAG48:5-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010023	.	.		.		
+1175	TAG49:0-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100009852	.	.		.		
+1176	TAG49:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010192	.	.		.		
+1177	TAG49:0-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100010553	.	.		.		
+1178	TAG49:0-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009511	.	.		.		
+1179	TAG49:1-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010381	.	.		.		
+1180	TAG49:1-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100009512	.	.		.		
+1181	TAG49:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010024	.	.		.		
+1182	TAG49:1-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009693	.	.		.		
+1183	TAG49:1-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100010193	.	.		.		
+1184	TAG49:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009513	.	.		.		
+1185	TAG49:2-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010194	.	.		.		
+1186	TAG49:2-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100010025	.	.		.		
+1187	TAG49:2-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010382	.	.		.		
+1188	TAG49:2-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009694	.	.		.		
+1189	TAG49:2-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100009514	.	.		.		
+1190	TAG49:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010554	.	.		.		
+1191	TAG49:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010195	.	.		.		
+1192	TAG49:3-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100009695	.	.		.		
+1193	TAG49:3-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009515	.	.		.		
+1194	TAG49:3-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009516	.	.		.		
+1195	TAG49:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009853	.	.		.		
+1196	TAG49:3-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010555	.	.		.		
+1197	TAG50:0-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009854	.	.		.		
+1198	TAG50:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010383	.	.		.		
+1199	TAG50:0-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010026	.	.		.		
+1200	TAG50:1-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010196	.	.		.		
+1201	TAG50:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010027	.	.		.		
+1202	TAG50:1-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010384	.	.		.		
+1203	TAG50:1-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010385	.	.		.		
+1204	TAG50:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010028	.	.		.		
+1205	TAG50:1-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100009696	.	.		.		
+1206	TAG50:2-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009697	.	.		.		
+1207	TAG50:2-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100009517	.	.		.		
+1208	TAG50:2-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010734	.	.		.		
+1209	TAG50:2-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010029	.	.		.		
+1210	TAG50:2-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010197	.	.		.		
+1211	TAG50:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009698	.	.		.		
+1212	TAG50:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010030	.	.		.		
+1213	TAG50:2-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100010386	.	.		.		
+1214	TAG50:3-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009855	.	.		.		
+1215	TAG50:3-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100010735	.	.		.		
+1216	TAG50:3-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010198	.	.		.		
+1217	TAG50:3-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010033	.	.		.		
+1218	TAG50:3-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009856	.	.		.		
+1219	TAG50:3-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010557	.	.		.		
+1220	TAG50:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010034	.	.		.		
+1221	TAG50:3-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010199	.	.		.		
+1222	TAG50:3-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100010736	.	.		.		
+1223	TAG50:4-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010737	.	.		.		
+1224	TAG50:4-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100010035	.	.		.		
+1225	TAG50:4-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009519	.	.		.		
+1226	TAG50:4-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010200	.	.		.		
+1227	TAG50:4-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010036	.	.		.		
+1228	TAG50:4-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010201	.	.		.		
+1229	TAG50:4-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009700	.	.		.		
+1230	TAG50:4-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100010387	.	.		.		
+1231	TAG50:4-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010202	.	.		.		
+1232	TAG50:5-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010388	.	.		.		
+1233	TAG50:5-FA14:1	Triacylglycerol	TAG Ester	DMS-MS	100010037	.	.		.		
+1234	TAG50:5-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010558	.	.		.		
+1235	TAG50:5-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010038	.	.		.		
+1236	TAG50:5-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009701	.	.		.		
+1237	TAG50:5-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009520	.	.		.		
+1238	TAG50:5-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010559	.	.		.		
+1239	TAG50:5-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010738	.	.		.		
+1240	TAG50:5-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100010389	.	.		.		
+1241	TAG50:6-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010203	.	.		.		
+1242	TAG51:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010390	.	.		.		
+1243	TAG51:0-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100009857	.	.		.		
+1244	TAG51:0-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009702	.	.		.		
+1245	TAG51:1-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100009521	.	.		.		
+1246	TAG51:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009858	.	.		.		
+1247	TAG51:1-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100010560	.	.		.		
+1248	TAG51:1-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010739	.	.		.		
+1249	TAG51:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010039	.	.		.		
+1250	TAG51:2-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100010391	.	.		.		
+1251	TAG51:2-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009522	.	.		.		
+1252	TAG51:2-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009523	.	.		.		
+1253	TAG51:2-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100010204	.	.		.		
+1254	TAG51:2-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010740	.	.		.		
+1255	TAG51:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009703	.	.		.		
+1256	TAG51:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010561	.	.		.		
+1257	TAG51:3-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100010741	.	.		.		
+1258	TAG51:3-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009859	.	.		.		
+1259	TAG51:3-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009524	.	.		.		
+1260	TAG51:3-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100009525	.	.		.		
+1261	TAG51:3-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009526	.	.		.		
+1262	TAG51:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010392	.	.		.		
+1263	TAG51:3-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009860	.	.		.		
+1264	TAG51:4-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100009704	.	.		.		
+1265	TAG51:4-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010562	.	.		.		
+1266	TAG51:4-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010393	.	.		.		
+1267	TAG51:4-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010563	.	.		.		
+1268	TAG51:4-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009705	.	.		.		
+1269	TAG51:4-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010205	.	.		.		
+1270	TAG51:4-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100009861	.	.		.		
+1271	TAG51:5-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010206	.	.		.		
+1272	TAG51:5-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010564	.	.		.		
+1273	TAG52:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009862	.	.		.		
+1274	TAG52:0-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010040	.	.		.		
+1275	TAG52:0-FA20:0	Triacylglycerol	TAG Ester	DMS-MS	100010207	.	.		.		
+1276	TAG52:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010565	.	.		.		
+1277	TAG52:1-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009527	.	.		.		
+1278	TAG52:1-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009863	.	.		.		
+1279	TAG52:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009706	.	.		.		
+1280	TAG52:1-FA20:0	Triacylglycerol	TAG Ester	DMS-MS	100010041	.	.		.		
+1281	TAG52:1-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100009707	.	.		.		
+1282	TAG52:2-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100009864	.	.		.		
+1283	TAG52:2-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009865	.	.		.		
+1284	TAG52:2-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009708	.	.		.		
+1285	TAG52:2-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009528	.	.		.		
+1286	TAG52:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010042	.	.		.		
+1287	TAG52:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010043	.	.		.		
+1288	TAG52:2-FA20:0	Triacylglycerol	TAG Ester	DMS-MS	100010208	.	.		.		
+1289	TAG52:2-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100009866	.	.		.		
+1290	TAG52:2-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100010566	.	.		.		
+1291	TAG52:3-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010209	.	.		.		
+1292	TAG52:3-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009529	.	.		.		
+1293	TAG52:3-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010044	.	.		.		
+1294	TAG52:3-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010394	.	.		.		
+1295	TAG52:3-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010742	.	.		.		
+1296	TAG52:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010395	.	.		.		
+1297	TAG52:3-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010045	.	.		.		
+1298	TAG52:3-FA20:0	Triacylglycerol	TAG Ester	DMS-MS	100009709	.	.		.		
+1299	TAG52:3-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100009710	.	.		.		
+1300	TAG52:3-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100010396	.	.		.		
+1301	TAG52:3-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100010743	.	.		.		
+1302	TAG52:3-FA22:1	Triacylglycerol	TAG Ester	DMS-MS	100009867	.	.		.		
+1303	TAG52:4-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010744	.	.		.		
+1304	TAG52:4-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010397	.	.		.		
+1305	TAG52:4-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010210	.	.		.		
+1306	TAG52:4-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009530	.	.		.		
+1307	TAG52:4-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010046	.	.		.		
+1308	TAG52:4-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010745	.	.		.		
+1309	TAG52:4-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010567	.	.		.		
+1310	TAG52:4-FA20:0	Triacylglycerol	TAG Ester	DMS-MS	100009531	.	.		.		
+1311	TAG52:4-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100010047	.	.		.		
+1312	TAG52:4-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100010048	.	.		.		
+1313	TAG52:4-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100009711	.	.		.		
+1314	TAG52:4-FA22:1	Triacylglycerol	TAG Ester	DMS-MS	100010746	.	.		.		
+1315	TAG52:4-FA22:4	Triacylglycerol	TAG Ester	DMS-MS	100009532	.	.		.		
+1316	TAG52:5-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010049	.	.		.		
+1317	TAG52:5-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010398	.	.		.		
+1318	TAG52:5-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010211	.	.		.		
+1319	TAG52:5-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010568	.	.		.		
+1320	TAG52:5-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010399	.	.		.		
+1321	TAG52:5-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009868	.	.		.		
+1322	TAG52:5-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100010050	.	.		.		
+1323	TAG52:5-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100009869	.	.		.		
+1324	TAG52:5-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100009870	.	.		.		
+1325	TAG52:5-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100009533	.	.		.		
+1326	TAG52:6-FA14:0	Triacylglycerol	TAG Ester	DMS-MS	100010569	.	.		.		
+1327	TAG52:6-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010747	.	.		.		
+1328	TAG52:6-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009534	.	.		.		
+1329	TAG52:6-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010570	.	.		.		
+1330	TAG52:6-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009535	.	.		.		
+1331	TAG52:6-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010212	.	.		.		
+1332	TAG52:6-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010213	.	.		.		
+1333	TAG52:6-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100009871	.	.		.		
+1334	TAG52:6-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010400	.	.		.		
+1335	TAG52:7-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009712	.	.		.		
+1336	TAG52:7-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010571	.	.		.		
+1337	TAG52:7-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100010214	.	.		.		
+1338	TAG52:7-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010748	.	.		.		
+1339	TAG52:8-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009536	.	.		.		
+1340	TAG52:8-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009872	.	.		.		
+1341	TAG53:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010749	.	.		.		
+1342	TAG53:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010750	.	.		.		
+1343	TAG53:1-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100009873	.	.		.		
+1344	TAG53:1-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010572	.	.		.		
+1345	TAG53:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010751	.	.		.		
+1346	TAG53:2-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010401	.	.		.		
+1347	TAG53:2-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100010402	.	.		.		
+1348	TAG53:2-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009874	.	.		.		
+1349	TAG53:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010573	.	.		.		
+1350	TAG53:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009875	.	.		.		
+1351	TAG53:3-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010403	.	.		.		
+1352	TAG53:3-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100010215	.	.		.		
+1353	TAG53:3-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009876	.	.		.		
+1354	TAG53:3-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009537	.	.		.		
+1355	TAG53:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009538	.	.		.		
+1356	TAG53:4-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009539	.	.		.		
+1357	TAG53:4-FA17:0	Triacylglycerol	TAG Ester	DMS-MS	100010574	.	.		.		
+1358	TAG53:4-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009713	.	.		.		
+1359	TAG53:4-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009540	.	.		.		
+1360	TAG53:4-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010404	.	.		.		
+1361	TAG53:4-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009877	.	.		.		
+1362	TAG53:4-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010051	.	.		.		
+1363	TAG53:5-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010575	.	.		.		
+1364	TAG53:5-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010405	.	.		.		
+1365	TAG53:5-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009878	.	.		.		
+1366	TAG53:5-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100009879	.	.		.		
+1367	TAG53:6-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010052	.	.		.		
+1368	TAG53:6-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010576	.	.		.		
+1369	TAG53:6-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009714	.	.		.		
+1370	TAG53:6-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100009715	.	.		.		
+1371	TAG53:7-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010406	.	.		.		
+1372	TAG54:0-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009880	.	.		.		
+1373	TAG54:0-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010216	.	.		.		
+1374	TAG54:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010577	.	.		.		
+1375	TAG54:1-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010217	.	.		.		
+1376	TAG54:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009716	.	.		.		
+1377	TAG54:1-FA20:0	Triacylglycerol	TAG Ester	DMS-MS	100010578	.	.		.		
+1378	TAG54:1-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100010579	.	.		.		
+1379	TAG54:2-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009881	.	.		.		
+1380	TAG54:2-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010407	.	.		.		
+1381	TAG54:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010218	.	.		.		
+1382	TAG54:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010580	.	.		.		
+1383	TAG54:2-FA20:0	Triacylglycerol	TAG Ester	DMS-MS	100010053	.	.		.		
+1384	TAG54:2-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100009541	.	.		.		
+1385	TAG54:2-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100009542	.	.		.		
+1386	TAG54:3-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009717	.	.		.		
+1387	TAG54:3-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010408	.	.		.		
+1388	TAG54:3-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010752	.	.		.		
+1389	TAG54:3-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010054	.	.		.		
+1390	TAG54:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010581	.	.		.		
+1391	TAG54:3-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010753	.	.		.		
+1392	TAG54:3-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100010582	.	.		.		
+1393	TAG54:3-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100010409	.	.		.		
+1394	TAG54:3-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100009543	.	.		.		
+1395	TAG54:4-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009882	.	.		.		
+1396	TAG54:4-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009718	.	.		.		
+1397	TAG54:4-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010055	.	.		.		
+1398	TAG54:4-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010583	.	.		.		
+1399	TAG54:4-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010410	.	.		.		
+1400	TAG54:4-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010584	.	.		.		
+1401	TAG54:4-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100010411	.	.		.		
+1402	TAG54:4-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100010056	.	.		.		
+1403	TAG54:4-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100010057	.	.		.		
+1404	TAG54:4-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010585	.	.		.		
+1405	TAG54:4-FA22:1	Triacylglycerol	TAG Ester	DMS-MS	100010586	.	.		.		
+1406	TAG54:4-FA22:4	Triacylglycerol	TAG Ester	DMS-MS	100009719	.	.		.		
+1407	TAG54:5-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010587	.	.		.		
+1408	TAG54:5-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009883	.	.		.		
+1409	TAG54:5-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010588	.	.		.		
+1410	TAG54:5-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009884	.	.		.		
+1411	TAG54:5-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010058	.	.		.		
+1412	TAG54:5-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010589	.	.		.		
+1413	TAG54:5-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100009544	.	.		.		
+1414	TAG54:5-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100009885	.	.		.		
+1415	TAG54:5-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010412	.	.		.		
+1416	TAG54:5-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100010413	.	.		.		
+1417	TAG54:5-FA22:1	Triacylglycerol	TAG Ester	DMS-MS	100010590	.	.		.		
+1418	TAG54:5-FA22:4	Triacylglycerol	TAG Ester	DMS-MS	100010219	.	.		.		
+1419	TAG54:5-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100010754	.	.		.		
+1420	TAG54:6-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009720	.	.		.		
+1421	TAG54:6-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009886	.	.		.		
+1422	TAG54:6-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010220	.	.		.		
+1423	TAG54:6-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010221	.	.		.		
+1424	TAG54:6-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009887	.	.		.		
+1425	TAG54:6-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100010222	.	.		.		
+1426	TAG54:6-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010059	.	.		.		
+1427	TAG54:6-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100010755	.	.		.		
+1428	TAG54:6-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100009545	.	.		.		
+1429	TAG54:6-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010756	.	.		.		
+1430	TAG54:7-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010414	.	.		.		
+1431	TAG54:7-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009721	.	.		.		
+1432	TAG54:7-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010223	.	.		.		
+1433	TAG54:7-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009546	.	.		.		
+1434	TAG54:7-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100009722	.	.		.		
+1435	TAG54:7-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100009547	.	.		.		
+1436	TAG54:7-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100010591	.	.		.		
+1437	TAG54:7-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010757	.	.		.		
+1438	TAG54:8-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009548	.	.		.		
+1439	TAG54:8-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009888	.	.		.		
+1440	TAG54:8-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100009889	.	.		.		
+1441	TAG54:8-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100010592	.	.		.		
+1442	TAG54:8-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010224	.	.		.		
+1443	TAG55:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010415	.	.		.		
+1444	TAG55:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010758	.	.		.		
+1445	TAG55:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010416	.	.		.		
+1446	TAG55:2-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009890	.	.		.		
+1447	TAG55:3-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010225	.	.		.		
+1448	TAG55:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009723	.	.		.		
+1449	TAG55:4-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010759	.	.		.		
+1450	TAG55:4-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010226	.	.		.		
+1451	TAG55:5-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010060	.	.		.		
+1452	TAG55:5-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010061	.	.		.		
+1453	TAG55:5-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010062	.	.		.		
+1454	TAG55:6-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010063	.	.		.		
+1455	TAG55:6-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100010593	.	.		.		
+1456	TAG55:6-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010417	.	.		.		
+1457	TAG55:7-FA15:0	Triacylglycerol	TAG Ester	DMS-MS	100010418	.	.		.		
+1458	TAG55:7-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010064	.	.		.		
+1459	TAG55:7-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100009724	.	.		.		
+1460	TAG55:7-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010065	.	.		.		
+1461	TAG55:7-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010419	.	.		.		
+1462	TAG55:8-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100009891	.	.		.		
+1463	TAG56:10-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010227	.	.		.		
+1464	TAG56:1-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009549	.	.		.		
+1465	TAG56:1-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010228	.	.		.		
+1466	TAG56:2-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009550	.	.		.		
+1467	TAG56:2-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010420	.	.		.		
+1468	TAG56:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009725	.	.		.		
+1469	TAG56:2-FA20:0	Triacylglycerol	TAG Ester	DMS-MS	100010421	.	.		.		
+1470	TAG56:2-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100009551	.	.		.		
+1471	TAG56:3-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010760	.	.		.		
+1472	TAG56:3-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010761	.	.		.		
+1473	TAG56:3-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010594	.	.		.		
+1474	TAG56:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009552	.	.		.		
+1475	TAG56:3-FA20:0	Triacylglycerol	TAG Ester	DMS-MS	100009553	.	.		.		
+1476	TAG56:3-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100009726	.	.		.		
+1477	TAG56:3-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100009727	.	.		.		
+1478	TAG56:4-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010762	.	.		.		
+1479	TAG56:4-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009554	.	.		.		
+1480	TAG56:4-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009892	.	.		.		
+1481	TAG56:4-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009893	.	.		.		
+1482	TAG56:4-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100010422	.	.		.		
+1483	TAG56:4-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100009728	.	.		.		
+1484	TAG56:4-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100009894	.	.		.		
+1485	TAG56:4-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010763	.	.		.		
+1486	TAG56:4-FA22:4	Triacylglycerol	TAG Ester	DMS-MS	100010066	.	.		.		
+1487	TAG56:5-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010764	.	.		.		
+1488	TAG56:5-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010067	.	.		.		
+1489	TAG56:5-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010068	.	.		.		
+1490	TAG56:5-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010423	.	.		.		
+1491	TAG56:5-FA20:1	Triacylglycerol	TAG Ester	DMS-MS	100010595	.	.		.		
+1492	TAG56:5-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100009555	.	.		.		
+1493	TAG56:5-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100010596	.	.		.		
+1494	TAG56:5-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010597	.	.		.		
+1495	TAG56:5-FA22:4	Triacylglycerol	TAG Ester	DMS-MS	100010424	.	.		.		
+1496	TAG56:5-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100009729	.	.		.		
+1497	TAG56:6-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010765	.	.		.		
+1498	TAG56:6-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010069	.	.		.		
+1499	TAG56:6-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010425	.	.		.		
+1500	TAG56:6-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010229	.	.		.		
+1501	TAG56:6-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009895	.	.		.		
+1502	TAG56:6-FA20:2	Triacylglycerol	TAG Ester	DMS-MS	100010230	.	.		.		
+1503	TAG56:6-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100009556	.	.		.		
+1504	TAG56:6-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010766	.	.		.		
+1505	TAG56:6-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100010426	.	.		.		
+1506	TAG56:6-FA22:4	Triacylglycerol	TAG Ester	DMS-MS	100010070	.	.		.		
+1507	TAG56:6-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100010231	.	.		.		
+1508	TAG56:6-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100009730	.	.		.		
+1509	TAG56:7-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009896	.	.		.		
+1510	TAG56:7-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100009731	.	.		.		
+1511	TAG56:7-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009897	.	.		.		
+1512	TAG56:7-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009732	.	.		.		
+1513	TAG56:7-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009557	.	.		.		
+1514	TAG56:7-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100009733	.	.		.		
+1515	TAG56:7-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100009558	.	.		.		
+1516	TAG56:7-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100009898	.	.		.		
+1517	TAG56:7-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100010427	.	.		.		
+1518	TAG56:7-FA22:4	Triacylglycerol	TAG Ester	DMS-MS	100010232	.	.		.		
+1519	TAG56:7-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100010598	.	.		.		
+1520	TAG56:7-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010767	.	.		.		
+1521	TAG56:8-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100010071	.	.		.		
+1522	TAG56:8-FA16:1	Triacylglycerol	TAG Ester	DMS-MS	100010233	.	.		.		
+1523	TAG56:8-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010428	.	.		.		
+1524	TAG56:8-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009559	.	.		.		
+1525	TAG56:8-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010072	.	.		.		
+1526	TAG56:8-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010599	.	.		.		
+1527	TAG56:8-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100009899	.	.		.		
+1528	TAG56:8-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100010768	.	.		.		
+1529	TAG56:8-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100009560	.	.		.		
+1530	TAG56:9-FA18:3	Triacylglycerol	TAG Ester	DMS-MS	100010769	.	.		.		
+1531	TAG56:9-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010770	.	.		.		
+1532	TAG56:9-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100010073	.	.		.		
+1533	TAG56:9-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010600	.	.		.		
+1534	TAG57:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010234	.	.		.		
+1535	TAG57:3-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009734	.	.		.		
+1536	TAG57:8-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010602	.	.		.		
+1537	TAG57:9-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100009561	.	.		.		
+1538	TAG58:10-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010429	.	.		.		
+1539	TAG58:10-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100009562	.	.		.		
+1540	TAG58:10-FA20:5	Triacylglycerol	TAG Ester	DMS-MS	100010235	.	.		.		
+1541	TAG58:10-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100009900	.	.		.		
+1542	TAG58:10-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100009735	.	.		.		
+1543	TAG58:2-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009901	.	.		.		
+1544	TAG58:3-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010430	.	.		.		
+1545	TAG58:5-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009736	.	.		.		
+1546	TAG58:6-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009737	.	.		.		
+1547	TAG58:6-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100010603	.	.		.		
+1548	TAG58:6-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100009902	.	.		.		
+1549	TAG58:6-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010431	.	.		.		
+1550	TAG58:6-FA22:4	Triacylglycerol	TAG Ester	DMS-MS	100009563	.	.		.		
+1551	TAG58:6-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100009738	.	.		.		
+1552	TAG58:7-FA16:0	Triacylglycerol	TAG Ester	DMS-MS	100009739	.	.		.		
+1553	TAG58:7-FA18:0	Triacylglycerol	TAG Ester	DMS-MS	100009564	.	.		.		
+1554	TAG58:7-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010432	.	.		.		
+1555	TAG58:7-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010074	.	.		.		
+1556	TAG58:7-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010604	.	.		.		
+1557	TAG58:7-FA22:4	Triacylglycerol	TAG Ester	DMS-MS	100010771	.	.		.		
+1558	TAG58:7-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100009565	.	.		.		
+1559	TAG58:7-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100009566	.	.		.		
+1560	TAG58:8-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010605	.	.		.		
+1561	TAG58:8-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100009903	.	.		.		
+1562	TAG58:8-FA20:3	Triacylglycerol	TAG Ester	DMS-MS	100010236	.	.		.		
+1563	TAG58:8-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010606	.	.		.		
+1564	TAG58:8-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100009904	.	.		.		
+1565	TAG58:8-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100009567	.	.		.		
+1566	TAG58:9-FA18:1	Triacylglycerol	TAG Ester	DMS-MS	100010237	.	.		.		
+1567	TAG58:9-FA18:2	Triacylglycerol	TAG Ester	DMS-MS	100010772	.	.		.		
+1568	TAG58:9-FA20:4	Triacylglycerol	TAG Ester	DMS-MS	100010075	.	.		.		
+1569	TAG58:9-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100009568	.	.		.		
+1570	TAG58:9-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010607	.	.		.		
+1571	TAG60:10-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100009905	.	.		.		
+1572	TAG60:10-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100009906	.	.		.		
+1573	TAG60:11-FA22:5	Triacylglycerol	TAG Ester	DMS-MS	100010238	.	.		.		
+1574	TAG60:11-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100009569	.	.		.		
+1575	TAG60:12-FA22:6	Triacylglycerol	TAG Ester	DMS-MS	100010433	.	.		.		
+1576	tartarate	Xenobiotics	Food Component/Plant	LC/MS Neg	100000295	615.3	149.0092	87-69-4;6106-24-7	444305	C00898	HMDB00956
+1577	tartronate (hydroxymalonate)	Xenobiotics	Bacterial/Fungal	LC/MS Neg	100000840	610	118.9986	80-69-3	45	C02287	HMDB35227
+1578	taurine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	LC/MS Pos Early	512	660	126.022	107-35-7	1123	C00245	HMDB00251
+1579	tauro-beta-muricholate	Lipid	Primary Bile Acid Metabolism	LC/MS Neg	100001250	4774	514.2844	25696-60-0	168408		HMDB00932
+1580	taurochenodeoxycholate	Lipid	Primary Bile Acid Metabolism	LC/MS Neg	1629	5250	498.2895	6009-98-9	387316	C05465	HMDB00951
+1581	taurocholate	Lipid	Primary Bile Acid Metabolism	LC/MS Neg	1648	5150	514.2844	145-42-6	6675	C05122	HMDB00036
+1582	taurocholenate sulfate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100001990	4750	279.6142		.		
+1583	taurodeoxycholate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	1668	5257.4	498.2895	207737-97-1	2733768	C05463	HMDB00896
+1584	taurolithocholate 3-sulfate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100001658	5027	280.6221	64936-83-0	440071	C03642	HMDB02580
+1585	tauroursodeoxycholate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	100002912	5025	498.2895	14605-22-2	9848818		HMDB00874
+1586	tetradecanedioate (C14-DC)	Lipid	Fatty Acid, Dicarboxylate	LC/MS Neg	100001613	4000	257.1758	821-38-5	13185		HMDB00872
+1587	theobromine	Xenobiotics	Xanthine Metabolism	LC/MS Pos Early	100000445	1600	181.072	83-67-0	5429	C07480	HMDB02825
+1588	theophylline	Xenobiotics	Xanthine Metabolism	LC/MS Neg	100000437	2356.9	179.0575	58-55-9	2153	C07130	HMDB01889
+1589	thioproline	Xenobiotics	Chemical	LC/MS Pos Early	100009232	1250	134.027	34592-47-4	93176		
+1590	threonate	Cofactors and Vitamins	Ascorbate and Aldarate Metabolism	LC/MS Polar	100001022	2384	135.0299	70753-61-6	151152	C01620	HMDB00943
+1591	threonine	Amino Acid	Glycine, Serine and Threonine Metabolism	LC/MS Pos Early	564	1514	120.0655	72-19-5	6288	C00188	HMDB00167
+1592	thymol sulfate	Xenobiotics	Food Component/Plant	LC/MS Neg	100001757	4410	229.054	89-83-8	.	C09908	HMDB01878
+1593	thyroxine	Amino Acid	Tyrosine Metabolism	LC/MS Neg	1094	4808	775.6794	51-48-9	5819	C01829	HMDB01918
+1594	tiglylcarnitine (C5:1-DC)	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Pos Early	100001597	2962	244.1543	64191-86-2	22833596		HMDB02366
+1595	topiramate	Xenobiotics	Drug - Neurological	LC/MS Neg	1388	4021	338.0915	97240-79-4	5284627	C07502	HMDB05034
+1596	Total CE	Neutral Complex Lipids SUM	Cholesteryl Esters	DMS-MS	100010820	.	.		.		
+1597	Total CER	Sphingolipid SUM	Ceramides	DMS-MS	100010830	.	.		.		
+1598	Total DAG	Neutral Complex Lipids SUM	Diacylglycerols	DMS-MS	100010822	.	.		.		
+1599	Total DCER	Sphingolipid SUM	Dihydroceramides	DMS-MS	100010833	.	.		.		
+1600	Total FFA	Neutral Complex Lipids SUM	Free Fatty Acids	DMS-MS	100010823	.	.		.		
+1601	Total HCER	Sphingolipid SUM	Hexosylceramides	DMS-MS	100010831	.	.		.		
+1602	Total LCER	Sphingolipid SUM	Lactosylceramides	DMS-MS	100010832	.	.		.		
+1603	Total LPC	Phospholipid SUM	Lysophosphatidylcholines	DMS-MS	100010827	.	.		.		
+1604	Total LPE	Phospholipid SUM	Lysophosphatidylethanolamines	DMS-MS	100010828	.	.		.		
+1605	Total PC	Phospholipid SUM	Phosphatidylcholines	DMS-MS	100010824	.	.		.		
+1606	Total PE	Phospholipid SUM	Phosphatidylethanolamines	DMS-MS	100010825	.	.		.		
+1607	Total PI	Phospholipid SUM	Phosphatidylinositols	DMS-MS	100010826	.	.		.		
+1608	Total SM	Sphingolipid SUM	Sphingomyelins	DMS-MS	100010829	.	.		.		
+1609	Total TAG	Neutral Complex Lipids SUM	Triacylglycerols	DMS-MS	100010821	.	.		.		
+1610	trans-urocanate	Amino Acid	Histidine Metabolism	LC/MS Pos Early	537	2285	139.0502	104-98-3	736715	C00785	HMDB00301
+1611	trazadone	Xenobiotics	Drug - Psychoactive	LC/MS Pos Late	100015783	837	372.1586	19794-93-5	5533	C07156,D08626	HMDB14794
+1612	tricarballylate	Energy	TCA Cycle	LC/MS Polar	2053	4200	175.0248	99-14-9	14925	C19806	HMDB31193
+1613	trigonelline (N'-methylnicotinate)	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	LC/MS Pos Early	100001092	1388	138.055	535-83-1	5570	C01004	HMDB00875
+1614	trimethylamine N-oxide	Lipid	Phospholipid Metabolism	LC/MS Pos Early	100003397	2100	76.0757	1184-78-7	1145	C01104	HMDB00925
+1615	tryptophan	Amino Acid	Tryptophan Metabolism	LC/MS Pos Early	565	2986	205.0972	73-22-3	6305	C00078	HMDB00929
+1616	tryptophan betaine	Amino Acid	Tryptophan Metabolism	LC/MS Pos Early	100001743	2673	247.1441	20671-76-5	442106	C09213	HMDB61115
+1617	tyramine O-sulfate	Amino Acid	Tyrosine Metabolism	LC/MS Neg	100006092	1565	216.0336	30223-92-8	153005		HMDB06409
+1618	tyrosine	Amino Acid	Tyrosine Metabolism	LC/MS Pos Early	815	2430	182.0812	60-18-4	6057	C00082	HMDB00158
+1619	umbelliferone sulfate	Xenobiotics	Food Component/Plant	LC/MS Neg	100006282	2440	240.9812	69526-88-1	129659		
+1620	undecanoate (11:0)	Lipid	Medium Chain Fatty Acid	LC/MS Neg	889	5219.2	185.1547	334-48-5	8180	C17715	HMDB00947
+1621	uracil	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Polar	825	1089.7	111.02	66-22-8	1174	C00106	HMDB00300
+1622	urate	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	LC/MS Neg	1134	757.1	167.0211	69-93-2;120K5305	1175	C00366	HMDB00289
+1623	urea	Amino Acid	Urea cycle; Arginine and Proline Metabolism	LC/MS Pos Early	533	700	121.072	57-13-6	1176	C00086	HMDB00294
+1624	uridine	Nucleotide	Pyrimidine Metabolism, Uracil containing	LC/MS Neg	535	1457.6	243.0623	58-96-8	6029	C00299	HMDB00296
+1625	ursodeoxycholate	Lipid	Secondary Bile Acid Metabolism	LC/MS Neg	1135	5055	391.2854	128-13-2	31401	C07880	HMDB00946
+1626	valine	Amino Acid	Leucine, Isoleucine and Valine Metabolism	LC/MS Pos Early	566	2479	118.0863	72-18-4	6287	C00183	HMDB00883
+1627	valproate	Xenobiotics	Drug - Neurological	LC/MS Neg	100000779	3885.6	143.1078	99-66-1	3121	C07185	HMDB01877
+1628	valylglycine	Peptide	Dipeptide	LC/MS Neg	100003641	1506	173.0932	686-43-1	136487		HMDB29127
+1629	vanillactate	Amino Acid	Tyrosine Metabolism	LC/MS Neg	100006129	1625	211.0612	2475-56-1	160637		HMDB00913
+1630	vanillic alcohol sulfate	Amino Acid	Tyrosine Metabolism	LC/MS Neg	100006125	1808	233.0125	754920-02-0	.		
+1631	vanillylmandelate (VMA)	Amino Acid	Tyrosine Metabolism	LC/MS Neg	1111	941	197.0456	55-10-7	1245	C05584	HMDB00291
+1632	xanthine	Nucleotide	Purine Metabolism, (Hypo)Xanthine/Inosine containing	LC/MS Polar	1004	2023	151.0262	69-89-6	1188	C00385	HMDB00292
+1633	xanthurenate	Amino Acid	Tryptophan Metabolism	LC/MS Neg	100000015	1476	204.0302	59-007	5699	C02470	HMDB00881
+1634	ximenoylcarnitine (C26:1)*	Lipid	Fatty Acid Metabolism(Acyl Carnitine)	LC/MS Pos Late	100015836	1607	538.483		.		
+1635	xylose	Carbohydrate	Pentose Metabolism	LC/MS Polar	826	1727	195.051	609-06-3	135191	C00181	HMDB00098
