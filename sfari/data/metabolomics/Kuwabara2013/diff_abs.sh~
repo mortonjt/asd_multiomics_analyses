@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+conda activate qiime2-2021.4
+
+
+qiime tools import --input-path fecal.biom --output-path fecal.qza --type FeatureTable[Frequencye]
