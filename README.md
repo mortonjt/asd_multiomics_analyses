@@ -6,6 +6,8 @@ This repository contains all of the analysis notebooks and scripts used to analy
 
 This repository does not contain the datasets required to reproduce the analyses (it amounts to several TB, plus much of the data is confidential).  But we have provided the exact directory structure and conda environments used to facilitate the preprocessing and analysis.
 
+The metadata and biom tables are provided to reproduce these analyeses. Furthermore NetCDF files (*.nc files) that contain the Bayesian statistical readouts can be generated from q2_matchmaker https://github.com/mortonjt/q2-matchmaker
+
 ## Installation
 
 To install the woltka processing utilities, run
